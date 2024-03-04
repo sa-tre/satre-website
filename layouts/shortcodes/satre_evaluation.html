@@ -1,0 +1,50 @@
+{{ $filename := .Get "evaluation_csv" }}
+{{ $data := getCSV "," (path.Join "data/evaluations/" $filename) }}
+
+{{/*
+  Split CSV into separate tables, based on the section column.
+  Each table repeats the header row.
+*/}}
+
+{{ $currentSection := "" }}
+{{ $header := index $data 0 }}
+
+{{ range $row := after 1 $data }}
+  {{- $section := index $row 0 }}
+  {{- $newSection := ne $section $currentSection }}
+
+  {{- if $newSection }}
+    {{- if $currentSection }}
+      {{/* We're in an existing section, close it off */}}
+</table>
+    {{- end }}
+
+    {{/* If the first cell is empty or Version skip the row */}}
+    {{- if or (not $section) (eq $section "Version") }}
+      {{- continue }}
+    {{- end }}
+
+{{/* Start a new section */}}
+<h2 id="{{ $section | anchorize }}">{{ $section }}</h2>
+<table>
+  <tr>
+    {{- range after 1 $header }}
+    <th>{{ . }}</th>
+    {{- end }}
+  </tr>
+    {{- $currentSection = $section }}
+  {{- end }}
+
+  {{/* The main content for this section */}}
+  <tr>
+    {{- $item := trim (index $row 1) "." }}
+    <td id="item-{{ $item | anchorize }}"><a href="#item-{{ $item | anchorize }}">{{ $item }}</td>
+  {{- range after 2 $row }}
+    <td>{{ . }}</td>
+  {{- end }}
+  </tr>
+
+{{ end }}
+</table>
+
+{{ $filename }}
