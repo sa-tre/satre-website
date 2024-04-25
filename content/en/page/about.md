@@ -1,26 +1,17 @@
 ---
 author: SATRE
-title: About Me
-date: 2021-07-15
+title: About Us
+date: 2024-01-01
 description:
-keywords: ["about-us", "about-hugo", "contact"]
+keywords: ["about-us", "tre", "contact"]
 type: about
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+SATRE (Standardised Architecture for Trusted Research Environments) started as a DARE UK Driver Project working to standardise access to secure data in trusted research environments, and included University of Dundee, Alan Turing Institute, UCL, Ulster University, and Research Data Scotland.
 
-Hugo makes use of a variety of open source projects including:
+Version 1.0 of SATRE was published last year, and we're now working on refining it with the goal of published version 2.0 this year.
+We are also working with interested parties to help them evaluate or build their own TREs and related infrastructure.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+- SATRE specification https://satre-specification.readthedocs.io/en/stable/
+- SATRE GitHub organisation https://github.com/sa-tre
+- Medium blog https://medium.com/satre
