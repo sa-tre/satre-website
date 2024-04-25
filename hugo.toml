@@ -37,11 +37,6 @@ DefaultContentLanguageInSubdir = true
         url = "evaluations/"
         weight = 4
 
-    [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
-        weight = 4
-
 [params]
   # Enable the darkmode toggle in header
   darkModeToggle = true
