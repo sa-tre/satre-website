@@ -1,5 +1,5 @@
 {{ $filename := .Get "evaluation_csv" }}
-{{ $data := getCSV "," (path.Join "data/evaluations/" $filename) }}
+{{ $data := getCSV "," (path.Join "static/evaluations/" $filename) }}
 
 {{/*
   Split CSV into separate tables, based on the section column.
@@ -47,4 +47,4 @@
 {{ end }}
 </table>
 
-{{ $filename }}
+<a class="right-8" aria-label="Download" href="{{ (path.Join "evaluations" $filename) | relURL }}">{{- $filename -}}&nbsp;&#x21D3;</a>
