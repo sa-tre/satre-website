@@ -1,10 +1,10 @@
 ---
 author: SATRE
 title: About Us
-date: 2024-01-01
 description:
 keywords: ["about-us", "tre", "contact"]
 type: about
+hideMeta: true
 ---
 
 SATRE (Standardised Architecture for Trusted Research Environments) started as a DARE UK Driver Project working to standardise access to secure data in trusted research environments, and included University of Dundee, Alan Turing Institute, UCL, Ulster University, and Research Data Scotland.
