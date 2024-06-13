@@ -54,7 +54,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2024 - SATRE · TODO: License"
+  copyright = "Copyright © 2024 - SATRE - CC-BY-4.0"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
