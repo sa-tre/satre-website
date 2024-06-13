@@ -18,8 +18,8 @@ DefaultContentLanguageInSubdir = true
       introPhoto = "satre_logo_dark.svg"
       logo = "satre_logo_dark.svg"
     [[languages.en.menu.main]]
-        name = "Blog"
-        url = "blog"
+        name = "News"
+        url = "news"
         weight = 1
 
     [[languages.en.menu.main]]
@@ -64,7 +64,7 @@ DefaultContentLanguageInSubdir = true
 
   # The page bundle that is shown on the front page
   frontBundle = "evaluations"
-  frontBundle2 = "blog"
+  frontBundle2 = "news"
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level

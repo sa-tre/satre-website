@@ -1,4 +1,4 @@
 ---
 author: SATRE
-title: Blog
+title: News
 ---
