@@ -2,8 +2,8 @@ baseurl = "https://blist.vercel.app"
 metaDataFormat = "yaml"
 title = "Standard Architecture for Trusted Research Environments"
 
-# https://github.com/apvarun/blist-hugo-theme
-theme = "blist"
+# Modified version of https://github.com/apvarun/blist-hugo-theme/tree/25febab1a29af2f5e445e92e41715ff632133519
+theme = "blist-satre"
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
