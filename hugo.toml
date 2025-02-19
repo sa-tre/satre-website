@@ -15,7 +15,9 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Standard Architecture for Trusted Research Environments (SATRE)"
       introSubtitle = "Working to standardise access to secure data in trusted research environments."
+      introLinkToContent = "👉 <a href='./page/about'>See the about page to find out more.</a>"
       introPhoto = "satre_logo_dark.svg"
+      introLinkToPage = "page/about"
       logo = "satre_logo_dark.svg"
     [[languages.en.menu.main]]
         name = "News"

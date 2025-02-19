@@ -52,4 +52,8 @@
   a:empty {
     display: none;
   }
+
+  a {
+    @apply hover:text-red-600;
+  }
 }
