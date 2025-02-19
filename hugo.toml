@@ -15,7 +15,9 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Standard Architecture for Trusted Research Environments (SATRE)"
       introSubtitle = "Working to standardise access to secure data in trusted research environments."
+      introLinkToContent = "👉 <a href='./page/about'>See the about page to find out more.</a>"
       introPhoto = "satre_logo_dark.svg"
+      introLinkToPage = "page/about"
       logo = "satre_logo_dark.svg"
     [[languages.en.menu.main]]
         name = "News"
@@ -54,7 +56,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2024 - SATRE - CC-BY-4.0"
+  copyright = "Copyright © 2025 - SATRE - CC-BY-4.0"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -83,29 +85,6 @@ DefaultContentLanguageInSubdir = true
   # This setting can also be in page's markdown file
   hidePageThumbnail = true
 
-# Comments system
-[params.comments]
-  # Supports disqus, giscus and utterances
-  # Check hugo docs for setting up disqus
-  system = "giscus"
-
-  # Options for giscus, exclude hyphens
-  repo = ""
-  repoid = ""
-  category = ""
-  categoryid = ""
-  mapping = ""
-  strict = ""
-  reactionsenabled = ""
-  emitmetadata = ""
-  inputposition = ""
-  theme = ""
-
-  # Options for utterances, exclude hyphens
-  # repo = ""
-  # issueterm = ""
-  # theme = ""
-
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me"
@@ -114,12 +93,19 @@ DefaultContentLanguageInSubdir = true
   [[params.homepage.social.icons]]
     website = "github"
     url = "https://github.com/sa-tre"
+    label = "GitHub"
   [[params.homepage.social.icons]]
     website = "medium"
     url = "https://medium.com/satre"
+    label = "Medium"
   [[params.homepage.social.icons]]
     website = "youtube"
     url = "https://www.youtube.com/watch?v=auExNHEGwcc"
+    label = "YouTube"
+  [[params.homepage.social.icons]]
+    website = "email"
+    url = "https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=UK-TRE-SATRE&A=1"
+    label = "Mailing list"
 
 [[menu.main]]
   name = "About"

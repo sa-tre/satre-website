@@ -3,7 +3,8 @@
     <div>
       <h1 class="text-4xl font-bold mb-4">{{ .Site.Params.introTitle | safeHTML}}</h1>
       <p class="font-light text-lg">{{ .Site.Params.introSubtitle | safeHTML}}</p>
+      <p class="font-bold text-lg">{{ .Site.Params.introLinkToContent | safeHTML}}</p>
     </div>
-    <img class="rounded-lg shadow-sm" src="{{ .Site.Params.introPhoto | relURL }}" alt="{{ .Site.Title }}" />
+    <a href="{{ relref . .Site.Params.introLinkToPage }}"><img class="rounded-lg shadow-sm" src="{{ .Site.Params.introPhoto | relURL }}" alt="{{ .Site.Title }}" /></a>
   </div>
 </section>
