@@ -16,10 +16,43 @@ Future SATRE cafes will be focused around one or two specific topics.
 In contrast to previous cafes we held a single event with both TRE experts and members of the public working together.
 The first 30 minutes was dedicated to familiarising public members with SATRE, before everyone else joined for the breakout discussions.
 
+## Breakout summaries
+
+### Federation
+
+This wasn't covered in SATRE v1.0.0, and the DARE UK Trevolution project will be collating feedback from the community on additions to SATRE.
+A major point arising from discussions was about different federation models, e.g. whether the data or analysis moves.
+It isn't always clear to the public (and even experts!) what federation would involve, or whether/how trust can/will be maintained.
+There are additional security issues, and also increased risk of de-identification by combining separate datasets.
+
+### Scoring and capability maturity models
+
+More guidance on some capabilities is needed, for instance on when they are applicable in different situations such as cloud or on-prem.
+This might include ensuring capabilities focus on the end purpose and not the mechanism of achieving it.
+There was discussion about improving the scoring system of 0/1/2, to a more complex capability maturity model, or to binary tick boxes with explanations.
+
+### Data tiering
+
+There were discussions around the differences between data classification and tiering, and what impact different tiers might have on people and TREs.
+Should researchers undergo additional training before accessing more sensitive data, and what are the requirements on TREs to hold that data?
+TREs with multiple tiers would need additional processes if data is moved between tiers.
+
+### Governance:
+
+Governance of TREs is an area that would benefit from more standardisation, but there is a balance between defining common "principles" of Governance that still allow flexibility, and "standards" that are more proscriptive but are easier to compare.
+The phrase "Allow Difference but Equivalence" was suggested to allowe deviation from a standard as long as it could be proven to be equivalent.
+Accreditation may be required for TREs to have confidence in each other's governance, and there are questions about whether the role of governance extends to methodological oversight to reduce bias in data.
+
+### Accreditation:
+
+Where does SATRE sit relative to other accreditations such as ISO27001 and DSPT?
+Should it be voluntary or mandatory, and who should audit organisations for accreditation?
+The best path forward is still unclear, and will be discussed in future cafes.
+A concrete action that came out of this is a working group that will look at mapping SATRE elements to ISO27001 and other standards
+
 ## Raw breakout notes
 
 As always we encouraged all attendees to collaboratively edit the notes from this cafe, and to use their own words to ensure their points were accurately captured.
-The raw notes from the breakout rooms are below.
 
 ### Breakout Room: Federation
 
