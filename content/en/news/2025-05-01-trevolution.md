@@ -40,7 +40,7 @@ TREs with multiple tiers would need additional processes if data is moved betwee
 ### Governance:
 
 Governance of TREs is an area that would benefit from more standardisation, but there is a balance between defining common "principles" of Governance that still allow flexibility, and "standards" that are more proscriptive but are easier to compare.
-The phrase "Allow Difference but Equivalence" was suggested to allowe deviation from a standard as long as it could be proven to be equivalent.
+The phrase "Allow Difference but Equivalence" was suggested to allow deviation from a standard as long as it could be proven to be equivalent.
 Accreditation may be required for TREs to have confidence in each other's governance, and there are questions about whether the role of governance extends to methodological oversight to reduce bias in data.
 
 ### Accreditation:
