@@ -186,14 +186,3 @@ Is there a way of automating some of the technical requirements from SATRE?
 Can we be clear on what accreditations we feel are the minimum standard? What is then the gold standard above that for different levels up to gold standard.
 
 ISO 42001 and ISO 27001 are both international standards that provide frameworks for managing specific aspects of organisational operations. While they share structural similarities, their focus areas and requirements differ significantly.​
-
-**From ChatGPT:** 🔍 Key Differences Between ISO 42001 and ISO 27001
-
-| Aspect                | ISO 27001                                                                                      | ISO 42001                                                                                          |
-| --------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| Primary Focus         | Information Security Management Systems (ISMS)                                                 | Artificial Intelligence Management Systems (AIMS)                                                  |
-| Scope                 | Protecting information assets across all organizational processes                              | Governing the development, deployment, and use of AI systems                                       |
-| Risk Management       | Addresses risks related to confidentiality, integrity, and availability of information         | Addresses AI-specific risks such as bias, transparency, and ethical considerations                 |
-| Controls              | Implements controls outlined in Annex A for information security                               | Introduces AI-specific controls focusing on ethical AI use, transparency, and accountability       |
-| Applicability         | Suitable for any organization seeking to manage information security risks                     | Designed for organizations developing, deploying, or using AI technologies                         |
-| Certification Process | Involves establishing an ISMS, conducting risk assessments, and implementing security controls | Requires establishing an AIMS, assessing AI-specific risks, and implementing governance frameworks |
