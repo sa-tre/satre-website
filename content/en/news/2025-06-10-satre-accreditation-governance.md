@@ -19,7 +19,29 @@ The long-term sustainability of SATRE requires the support of TRE stakeholders a
 
 ### Making SATRE into an accreditation
 
+These discussions centred around the practical requirements of making SATRE into a formal accreditation, and the impacts on organisations of having to undergo an accreditation process.
+
+One important aim of accreditation is to promote public trust in TREs, and this is difficult to achieve with self-assessment. External audits could include peer review, though this is perceived as less trustworthy than a regulatory authority that has power to impose sanctions.
+
+The move towards federation means standards like SATRE are important for data controllers and other TREs to trust each other. There are several related standards such as the Digital Economy Act (DEA), Data Security and Protection Toolkit (DSPT), and ISO270001, but SATRE fills a gap. We should make clear the relationships between these (note there is already a working group looking at this).
+
+SATRE requires continuing support from organisations operating TREs or managing data, and we need to take constrained budgets into account when updating SATRE and designing the accreditation process. Every organisation already has their own existing policies, and SATRE must also account for rapid changes in technology.
+
 ### Governance of SATRE
+
+Trust and transparency are important for the governing body of SATRE. It must include lay and TRE representation, decision making processes must be clear to have legitimacy, and clear communication with the public is required.
+
+The body will decide on the strategic direction of SATRE, which will be influenced by how the Government (perhaps indirectly) sets accreditation requirements for organisations. There should be a terms of reference clearly defining responsibilities and roles of the governing body.
+
+When it comes to setting up the body we need advice from those with expertise, and we could form a task group with technical, academic and public members who can build on the work of collaboration cafes.
+
+### Public space
+
+The public space highlighted issues of trust around SATRE and TREs, beginning with what do terms like _accreditation_, _ISO27001_, _SDEs_ and _federation_ even mean?
+
+Standardised accreditation and transparency of results, especially if they involved a known trusted body, would build public confidence in TREs and SATRE.
+
+Many members of the public understand that their data is useful of research, but we need to understand why others are concerned about the use of their data, and whether there are solutions or safeguards that would reassure them. This is particularly tricky since they may not engage with existing outreach. SATRE can help by allowing more consistent messaging about TREs.
 
 ## Raw breakout notes
 
