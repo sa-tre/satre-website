@@ -47,4 +47,7 @@
 {{ end }}
 </table>
 
-<a class="right-8" aria-label="Download" href="{{ (path.Join "evaluations" $filename) | relURL }}">{{- $filename -}}&nbsp;&#x21D3;</a>
+<p>
+  Download:
+  <a class="right-8" aria-label="Download" href="{{ (path.Join "evaluations" $filename) | relURL }}">{{- $filename -}}&nbsp;&#x21D3;</a>
+</p>
