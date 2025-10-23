@@ -40,7 +40,7 @@
     {{- $item := trim (index $row 1) "." }}
     <td id="item-{{ $item | anchorize }}"><a href="#item-{{ $item | anchorize }}">{{ $item }}</td>
   {{- range after 2 $row }}
-    <td>{{ . }}</td>
+    <td>{{ replace (transform.HTMLEscape .) "\n" "<br/>" | safeHTML }}</td>
   {{- end }}
   </tr>
 
