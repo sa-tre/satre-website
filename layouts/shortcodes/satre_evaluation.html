@@ -40,11 +40,14 @@
     {{- $item := trim (index $row 1) "." }}
     <td id="item-{{ $item | anchorize }}"><a href="#item-{{ $item | anchorize }}">{{ $item }}</td>
   {{- range after 2 $row }}
-    <td>{{ . }}</td>
+    <td>{{ replace (transform.HTMLEscape .) "\n" "<br/>" | safeHTML }}</td>
   {{- end }}
   </tr>
 
 {{ end }}
 </table>
 
-<a class="right-8" aria-label="Download" href="{{ (path.Join "evaluations" $filename) | relURL }}">{{- $filename -}}&nbsp;&#x21D3;</a>
+<p>
+  Download:
+  <a class="right-8" aria-label="Download" href="{{ (path.Join "evaluations" $filename) | relURL }}">{{- $filename -}}&nbsp;&#x21D3;</a>
+</p>
