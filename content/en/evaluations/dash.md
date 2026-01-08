@@ -1,5 +1,5 @@
 +++
-title = "Grampian Data Safe Haven (Dash)"
+title = "Grampian Data Safe Haven (DaSH)"
 date = 2025-12-17
 +++
 
