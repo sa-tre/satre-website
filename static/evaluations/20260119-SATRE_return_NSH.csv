@@ -1,0 +1,1000 @@
+﻿Section,Item,Statement,Guidance,Importance,Score,Response: ISO 27001,Response: DEA Security,Response: DEA Capability,
+Information governance,1.1.1.,"You must gather and monitor the information governance requirements needed to fulfil any legal, regulatory and ethical standards.","Requirements will come from a variety of sources including legislation, contractual obligations and ethical standards.
+Requirements must be monitored to ensure the TRE controls remain appropriate.",Mandatory,2,"A5.31: Legal, statutory, regulatory and contractual requirements. Legal, statutory, regulatory and contractual requirements relevant to information security and the organization’s approach to meet these requirements shall be identified, documented and kept up to date. ","A-1: An applicant must be a 'fit and proper person' to be involved in processing before they can be accredited as a processor. Provide evidence to confirm they have sufficient skills, experience, technical infrastructure and policies in place to demonstrate they are a fit and proper person. Demonstrate a record of appropriate compliance with UK laws, in particular laws relevant to processing activities and the use of data.
+
+A-2: Applicants are legally accountable for the work they carry out under relevant legislation. Only processors subject to UK legal jurisdiction are eligible for accreditation. Confirm and evidence that all processing is performed subject to relevant UK legislation.  
+
+O-1: The applicant has identified and recorded any legal, statutory, and regulatory codes they are required to comply with.
+
+O-4: The organisation's privacy information is fully compliant with the requirements of UKGDPR. ","C.1.1. Maintain sufficiently detailed records, including any accreditation conditions, of all projects in the processor’s environment. 
+ 
+ C.1.2: Monitor research taking place in the processor’s environment, identify and report any significant deviation from accredited project conditions.
+ 
+ C.1.5: Ethical frameworks in place for all DEA accredited projects and all ethics processes in the processor’s environment remain transparent and auditable.
+ 
+ C.2.1. Maintain clear and consistent records of legal agreements that outline how 
+ data is accessed, processed, and used in the environment.",
+Information governance,1.1.2.,You must ensure controls are implemented to ensure the requirements are met.,Control implementation should be systematic and directly aligned to the internal and stakeholder requirements.,Mandatory,2,"A8.1: The organisation shall plan, implement and control the processes needed to meet information security requirements",,,
+Information governance,1.1.3.,You must ensure there are adequate resources to meet information governance requirements.,Ensuring information governance controls are suitable and enforced requires an investment of funding and people appropriate to the size of the TRE.,Mandatory,2,"A.1: Resources
+The organisation shall determine and provide the resources needed for the establishment, implementation, maintenance and continual improvement of the information security management system.","C-1: Lead responsibility for the strategic direction and oversight of information security has been assigned at an appropriately senior level. Evidence of responsibility being formally assigned, for example Job Descriptions or employment contracts. Evidence that the relevant individual is actively involved in overseeing information security. 
+
+C-2: Operational responsibility has been appropriately assigned for the development, implementation, and ongoing management of information security within the organization. Evidence of operational level security roles, including Job Descriptions or employment contracts. Organizational structure or map document demonstrating suitable and effective positioning of the role. 
+
+C-3: A steering group or forum meets regularly to monitor information security across the organization, and to facilitate communication regarding information security. Evidence of existence of an information security steering group, working group, or forum, including membership lists, meeting schedules, draft or standard agendas, minutes, and outputs. 
+
+C-5: Staff in security related specialist roles, or in roles with potentially significant impact on information security, have been assessed to see whether they should receive additional information security training relevant to their roles, and where appropriate that training has been provided. Evidence of training needs analysis, and of the content of specialist training. Evidence that specialist training is tracked and where necessary refreshed on a regular basis. 
+
+D-6: Resourcing of information security roles is sufficient for the context of the organisation. Organisational chart, minutes of resourcing discussions, emails considering resourcing, etc.  ",,
+Information governance,1.2.1.,You must ensure that changes to policies and standard operating procedures can only be made by trusted individuals.,"It is important to ensure that policies and SOPs are relevant, up-to-date and carefully controlled to maintain the integrity and security of your TRE organisation.",Mandatory,2,"A5.1: Policies for Information Secuirty. Information security policy and topic-specific policies shall be defined, approved by management, published, communicated to and acknowledged by relevant personnel and relevant interested parties, and reviewed at planned intervals and if significant changes occur.
+","A-4: The applicant must have a documented and effective policy framework in place to manage the use of data for research purposes. Provide evidence that a policy framework is in place covering the key areas identified by the Research Code of Practice, including: 
+
+          - secure environments; 
+          - major incident protocol; 
+          - de-identification of data; 
+          - data confidentiality breaches; 
+          - data retention and destructions. 
+
+These policies should be subject to a standardized approach to documentation, though do not have to be standalone policies and may be combined if appropriate to the context of the organization; should be subject to regular reviews; should be subject to senior management ownership and authorization; must be available to all relevant staff; and staff awareness should be tracked where relevant and appropriate. 
+
+B-1: Effective policies for information security have been documented and approved by management. Provide evidence that a relevant and comprehensive suite of information security policies are in place and subject to approval and ownership by the appropriate senior management, including providing copies of the policies.
+
+B-2: Information security policies are effectively communicated and disseminated to staff, ensuring their availability to staff. Provide evidence that policies are communicated to staff effectively, that staff engagement with policies is tracked or recorded, and that policies are stored somewhere accessible by relevant staff. ","Partly covered by a combination of:
+ 
+ C.2.5: Policies and procedures in place and tested to ensure reasonable deidentification of data. 
+ 
+ C.2.6: Policies and evidenced procedures for the retention of all different data instances.
+ 
+ C.4.6: Processor provides access to policies and procedures on how researchers can interact with code repositories in the environment before researchers access the environment.",
+Information governance,1.2.2.,You must use versioning and a codified change procedure for all policies and standard operating procedures.,"This includes recording dates of changes, person responsible for carrying out changes, and summary of changes.",Mandatory,2,"A7.5.3 Documented information required by the information security management system and by this document shall be controlled to ensure:
+
+a) it is available and suitable for use, where and when it is needed;
+b) it is adequately protected (e.g. from loss of confidentiality, improper use, or loss of integrity)","B-3: Information security policies are subject to regular and effective review by appropriate staff. Provide evidence of reviews being carried out, who has carried them out, and records of what changes have been made by these reviews.",,
+Information governance,1.2.3.,You should measure the performance of information governance within the TRE with regular reporting available to your TRE organisation’s management team.,"This may include reports and dashboards showing security incidents, quality management deviations and audit findings.",Recommended,2,Clause 9: Performance Evaluation.,"O-2: The applicant can demonstrate compliance with any legal, statutory, or regulatory codes they have identified in control O-1.","Partly covered by a combination of: 
+ C.5.1. Share relevant information on its performance. 
+ 
+ C.5.2. Share relevant information on confirmed breaches and near misses by 
+ individuals and organisations. 
+ 
+ Use of management information is one component of the maturity assessment for most other controls.",
+Information governance,1.2.4.,You must audit your TRE organisation against relevant requirements and standards.,"If you are publicly accredited against a standard, for instance ISO27001, DSPT, CE+ *etc.*, you must have processes in place to ensure you remain compliant.",Mandatory,2,"A5.35:Independent review of information security.The organization’s approach to managing information security and its implementation including people, processes and technologies shall be reviewed independently at planned intervals, or when significant changes occur.  
+
+A5.36: Compliance with policies, rules and standards for information security. Compliance with the organization’s information security policy, topic-specific policies, rules and standards shall be regularly reviewed.","O-6: Information security reviews or audits are undertaken internally to ensure that information security is implemented and operated in accordance with the organisational policies and procedures
+
+O-7: External information security reviews or audits are undertaken to ensure that information security is implemented and effective
+
+O-8: The organisation maintains certification to relevant information security accreditations, for example ISO 27001, Cyber Essentials Plus, NIST CSF, etc. ","C.1.1 Maintain sufficiently detailed records, including any accreditation conditions, of all projects in the processor’s environment. 
+ 
+ C.1.5 Ethical frameworks in place for all DEA accredited projects and all ethics processes in the processor’s environment remain transparent and auditable.
+ 
+ C.2.1. Maintain clear and consistent records of legal agreements that outline how 
+ data is accessed, processed, and used in the environment. 
+ 
+ C.5.6: Evidenced process to alert the accrediting body of any changes that might impact the conditions of its accreditation.",
+Information governance,1.2.5.,You must report on and share outcomes of each audit of your TRE organisation with the required bodies.,This may include regulatory bodies or the organisations that manage accreditations you have.,Mandatory,2,A5.6: Contact with authorities. The organization shall establish and maintain contact with relevant authorities.,,"C.5.1. Share relevant information on its performance.
+ 
+ C.5.2. Share relevant information on confirmed breaches and near misses by individuals and organisations.
+ 
+ C.5.6. Evidenced process to alert the accrediting body of any changes that might impact the conditions of its accreditation.",
+Information governance,1.2.6.,"You must ensure that suppliers, contractors and sub-contractors with access to your TRE align with your security requirements.","These should be included as mandatory, non-functional requirements in during procurement and contracting.
+This will also include contractor staff contracts for example, legal liability and NDAs.",Mandatory,2,"A5.19: Information security in supplier relationships.Processes and procedures shall be defined and implemented to manage the information security risks associated with the use of supplier’s products or services.
+A5.20: Addressing information security within supplier agreements. Relevant information security requirements shall be established and agreed with each supplier based on the type of supplier relationship.
+A5.21: Managing information security in the information and communication technology (ICT) supply chain. 
+A5.23: Processes and procedures shall be defined and implemented to manage the information security risks associated with the ICT products and services supply chain.
+","L-1: Contracts and agreements are in place with IT suppliers, include relevant information security requirements, and allows for auditing by the applicant. Copies of agreements and contracts. 
+
+F-1: Access to information is controlled, and is granted only to authorised users. Access Control Policy and processes.
+
+F-2: A formal user access provisioning process has been implemented to assign access rights to staff. New start process or procedure. 
+
+F-3: The allocation and use of privileged access rights is restricted and controlled. Privileged Access Rights/Administrator Access policy, procedures, code of conduct, rules. Evidence of the process followed to allocate privileged access. 
+
+F-4: User access rights are reviewed at regular intervals, and where no longer required are removed in a timely fashion. Responsibility for these reviews is assigned to appropriate individuals. Evidence of access reviews or audits. Evidence of responsibility for reviews being appropriately assigned. Evidence of access being removed from staff who no longer require it (i.e. who are leaving the organisation). 
+
+F-5: Access rights are adjusted upon a change of assignment/role. Internal mover process.
+
+F-6: Users are responsible for safeguarding their authentication information. Guidance given to staff around keeping authentication information secret. 
+
+F-7: Where passwords are used for user authentication there are effective and up to date rules in place regarding length, complexity, and periodic password changes. Existing requirements are subject to periodic effectiveness reviews. Password rules or requirements. Evidence of reviews against new best practice recommendations. 
+
+F-8: Processes are in place to ensure that default passwords are changed, and to control the use of shared passwords. Evidence of default passwords being changed. Rules regarding the sharing of passwords. ",,
+Information governance,1.2.7.,You must monitor compliance of your suppliers with the terms of the contracts.,"This will include monitoring changes in the services and infrastructure being delivered and quality management within the contractor’s organisation.
+This may be done through formal audit or by monitoring change and quality documentation provided by the supplier.",Mandatory,2,"A5.22: Monitoring, review and change management of supplier services. The organization shall regularly monitor, review, evaluate and manage change in supplier information security practices and service delivery.","L-2: Supplier performance is subject to monitoring, review, and auditing. Evidence of monitoring and review.",,
+Information governance,1.2.8.,You must track and maintain any physical assets used by your TRE.,"All physical assets should be maintained and covered by warranty if applicable.
+At the end of their lifetime, assets should be securely disposed of in such a way that data cannot be recovered from them.",Mandatory (where physical assets are in scope),2,"A.5.9: Inventory of information and other associated assets. An inventory of information and other associated assets, including owners, shall be developed and maintained.
+A5.10: Acceptable use of information and other associated assets. Rules for the acceptable use and procedures for handling information and other associated assets shall be identified, documented and implemented.
+A5.11: Return of assets. Personnel and other interested parties as appropriate shall return all the organization’s assets in their possession upon change or termination of their employment, contract or agreement.
+A7.8: Equipment siting and protection.Equipment shall be sited securely and protected.
+A7.9: Security of assets off-premises. Off-site assets shall be protected.
+A7.10: Storage media. Storage media shall be managed through their life cycle of acquisition, use, transportation and disposal in accordance with the organization’s classification scheme and handling requirements.
+A7.11: Supporting utilities.Information processing facilities shall be protected from power failures and other disruptions caused by failures in supporting utilities.
+A7.12: Cabling security. Cables carrying power, data or supporting information services shall be protected from interception, interference or damage.
+A7.13: Equipment maintenance. Equipment shall be maintained correctly to ensure availability, integrity and confidentiality of information.
+A7.14: Secure disposal or re-use of equipment. Items of equipment containing storage media shall be verified to ensure that any sensitive data and licensed software has been removed or securely overwritten prior to disposal or re-use.
+A8.1: User endpoint devices. Information stored on, processed by or accessible via user end point devices shall be protected.","E-1: Hardware, software, and data assets have been identified, documented and classified. Asset logs, inventories, registers, etc.
+
+E-2: Hardware, software, and data asset registers/inventories are subject to periodic risk assessment. Copies of risk assessments, risk management policy or procedure. 
+
+E-3: There are rules in place for the acceptable use of assets. Acceptable Use Policy.
+
+E-4: There are procedures in place to ensure all employees (permanent and temporary staff) and third party users return all hardware assets upon termination of their employment, contract or agreement. Leaver procedure, evidence of hardware being tracked for collection.
+
+E-5: There is a documented governance structure surrounding the use of removable media. Relevant policies or procedures, staff guidance. 
+
+E-6: Media containing information is protected against unauthorised access, misuse or corruption during transportation. Relevant policies or procedures, incident logs, staff guidance. 
+ 
+E-7: There are endpoint (port) controls in place to prevent unauthorised use of removeable media or the upload or download of unauthorised information. Relevant policies or procedures, staff guidance. 
+
+E-8: Removeable media is disposed of securely when no longer required, using formal procedures. Relevant policies or procedures, evidence of disposal being tracked and controlled.
+
+E-9: The destruction of hardware assets is controlled and tracked. Relevant policies or procedures, destruction log, certificates of disposal. 
+
+K-2: The organisation has an awareness of the lifespan of current operating systems and software and has taken appropriate measures to mitigate any risks. Evidence that the organisation has an awareness of the end of life date for operating systems and software currently in use. Documented transition plans.",,
+Information governance,1.2.9.,"You must log, track and resolve any issues resulting from deviations from processes, incidents and audit findings.","This process could, for example, be tracked through an electronic record and workflow system with records retained.",Mandatory,2,"Clause 6: Planning
+
+A8.16: Monitoring Activities. Networks, systems and applications shall be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.","I-5: Where appropriate, logging and monitoring is in place to record user activities, security events, and to generate evidence. Site visit. Screenshots of logs or of monitoring dashboards. Guidance or comms for staff relating to logging and monitoring. 
+
+I-7: Network security management has been implemented to ensure the protection of information in networks and its supporting information processing facilities. Network Management and Network Security documentation, including details of internal or external firewalls, intrusion detection systems or methods, and VPN systems. 
+
+M-1: Management and operational responsibilities are established and documented to ensure an efficient and effective response to information security incidents. Evidence of assigned responsibilities. 
+
+M-2: There are effective processes in place to ensure that information security incidents are internally reported, assessed, classified, managed, recorded, and analysed as quickly as possible. Evidence the organisation has established incident management procedures, including communication and reporting that is endorsed by responsible management. 
+
+M-3: Near misses and security events are recorded and assessed alongside full incidents. Incident log including near misses or events.
+
+M-4: Analysis and resolution of security incidents is used to reduce the likelihood or impact of future incidents. Records of lessons learned analysis. ","C.1.2: Monitor research taking place in the processor’s environment, identify and report any significant deviation from accredited project conditions.
+ 
+ Also partly covered by most other controls.",
+Information governance,1.2.10.,"You must use reported issues to inform changes, such as for process improvement and risk management.",All issues should be analysed for their root cause and improvements put in place to prevent further occurrence.,Mandatory,2,Clause 6: Planning,"M-1: Management and operational responsibilities are established and documented to ensure an efficient and effective response to information security incidents. Evidence of assigned responsibilities. 
+
+M-2: There are effective processes in place to ensure that information security incidents are internally reported, assessed, classified, managed, recorded, and analysed as quickly as possible. Evidence the organisation has established incident management procedures, including communication and reporting that is endorsed by responsible management. 
+
+M-3: Near misses and security events are recorded and assessed alongside full incidents. Incident log including near misses or events.
+
+M-4: Analysis and resolution of security incidents is used to reduce the likelihood or impact of future incidents. Records of lessons learned analysis. ",,
+Information governance,1.2.11.,You should collect and maintain quality management data for measuring the effectiveness of a TRE.,"Large amounts of data will be produced by elements within the TRE.
+These data should be analysed with reports and dashboards provided to guide TRE implementer’s improvements and provide re-assurance to data consumers and data subjects.",Recommended,2,A9.1: The organisation shall evaluate the information security performance and the effectiveness of the information security management system.,,"C.4.1. Publicly provide information the functions and services provided, including accessibility and performance information regarding these services. 
+ 
+ Use of management information is one component of the maturity assessment for most other controls.",
+Information governance,1.2.12.,"You could use a QMS (Quality Management System) to standardise and automate quality management tasks and workflows, and to generate quality data and reports automatically.","A basic QMS could be a set of spreadsheets or documents held in a repository which are manually maintained.
+More mature applications will provide workflows and generate quality data through manual and automated actions.",Optional,1,,,,
+Information governance,1.3.1.,You must have a way to score risk to understand the underlying severity.,You have a risk assessment methodology for scoring risks on multiple axes such as impact and likelihood.,Mandatory,2,Clause 6: Planning,"C-7: The organisation has effective and documented risk management practices in place, including regular review of risk ratings and control effectiveness. Evidence of risk assessment, risk logs or registers, risk reviews, etc. ",,
+Information governance,1.3.2.,You must carry out a data processing assessment for all projects requiring a TRE.,"A data processing assessment is a process designed to identify risks arising out of the processing of sensitive data and to minimise these risks as far and as early as possible.
+This may take the form of an existing regulatory requirements such as Data Protection Impact Assessment.",Mandatory,2,,"O-5: The organisation has an effective, documented, and fully compliant Data Protection Impact Assessment process in place.","Partly covered by a combination of:
+ C.1.1. Maintain sufficiently detailed records, including any accreditation conditions, of all projects in the processor’s environment. 
+ 
+ C.1.5: Ethical frameworks in place for all DEA accredited projects and all ethics processes in the processor’s environment remain transparent and auditable.
+ 
+ C.2.8. The processor clearly specifies data ownership in their environment, including 
+ the ownership of research outputs. 
+ 
+ C.2.10 Auditable systems and practices to ensure that access to proportionate data provided (data minimisation)",
+Information governance,1.3.3.,"You must have a process for designing, implementing and recording risk mitigations where indicated by a risk assessment.",Actions that are taken or not taken following a risk assessment must be recorded.,Mandatory,2,Clause 6: Planning,"C-7: The organisation has effective and documented risk management practices in place, including regular review of risk ratings and control effectiveness. Evidence of risk assessment, risk logs or registers, risk reviews, etc. ",,
+Information governance,1.3.4.,You must have a clear set of roles and responsibilities relating to risk including who owns risks and how they are escalated and delegated.,"The highest level of risk ownership is the Top Management of the TRE organisation (see Governance Roles).
+In order to ensure escalations to this level are rare, suitable structures should be put in place to own, mitigate and accept risk.",Mandatory,2,Clause 6: Planning,"C-7: The organisation has effective and documented risk management practices in place, including regular review of risk ratings and control effectiveness. Evidence of risk assessment, risk logs or registers, risk reviews, etc. ",,
+Information governance,1.3.5.,You must understand the risk appetite of your TRE organisation.,"This includes understanding ownership of risk, and ability to accept risk which falls outside of the appetite should that become necessary.",Mandatory,2,Clause 6: Planning,"C-7: The organisation has effective and documented risk management practices in place, including regular review of risk ratings and control effectiveness. Evidence of risk assessment, risk logs or registers, risk reviews, etc. ",,
+Information governance,1.4.1.,"You must have checks in place to ensure a project has the legal, financial and ethical requirements in place for the duration of the project.","This includes checks that contracts are in place where required, adequate funding is available for the duration of the project, and responsibilities concerning data handling are understood by all parties.",Mandatory,2,A5.8: Information security in project management. Information security shall be integrated into project management.,,"C.1.1. Maintain sufficiently detailed records, including any accreditation conditions, of all projects in the processor’s environment.
+ 
+ C.1.4: Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey.
+ 
+ C.1.5 Ethical frameworks in place for all DEA accredited projects and all ethics 
+ processes in the processor’s environment remain transparent and auditable.",
+Information governance,1.4.2.,You must have checks in place to ensure that any time limited compliance requirements are maintained.,"This includes ensuring contracts remain in valid and action is promptly taken should they expire.
+Any changes in the status of responsible persons should also be monitored, for example a data owner leaving an organisation.",Mandatory,2,A5.8: Information security in project management. Information security shall be integrated into project management.,,"Partly covered by a combination of 
+ C.1.1. Maintain sufficiently detailed records, including any accreditation conditions, of all projects in the processor’s environment. 
+ 
+ C.1.4: Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey.
+ 
+ C.2.1. Maintain clear and consistent records of legal agreements that outline how data is accessed, processed, and used in the environment. 
+ 
+ C.2.6. Policies and evidenced procedures for the retention of all different data 
+ instances.",
+Information governance,1.4.3.,You must have checks in place to ensure that changes in regulations are met for a project.,,Mandatory,2,A5.8: Information security in project management. Information security shall be integrated into project management.,,,
+Information governance,1.4.4.,"You must have standard processes in place for the end of a project, that follow all legal requirements and data security best practice.",This includes the archiving of quality and log data along with the archiving or deletion of data sets.,Mandatory,2,A5.8: Information security in project management. Information security shall be integrated into project management.,,"C.1.4. Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey. 
+ 
+ C.2.6. Policies and evidenced procedures for the retention of all different data instances.",
+Information governance,1.4.5.,You could implement a portal that can provide a workflow engine and database which automates the processes within this capability.,"A portal should automate as much of the processes within the capability as possible.
+Where processes are automated, process maturity is easier to achieve, with more consistent completion and automatic production of quality control and monitoring data.",Optional,1,,,,
+Information governance,1.4.6.,You must keep a complete record of all the data assets held within the system.,"Details of all data assets (current and past) held by the system should be retained along with meta-data useful for ensuring compliance can be demonstrated.
+This would include ownership, data lifecycle, contracts, risk assessments and other quality data.
+This is likely to already exist within the wider organisation but may require augmenting for the TRE.",Mandatory,2,,"E-1: Hardware, software, and data assets have been identified, documented and classified. Asset logs, inventories, registers, etc.
+
+E-2: Hardware, software, and data asset registers/inventories are subject to periodic risk assessment. Copies of risk assessments, risk management policy or procedure. ","C.1.1: Maintain sufficiently detailed records, including any accreditation conditions, of all projects in the processor’s environment. 
+ 
+ C.2.2: Evidenced and appropriate procedures to manage data, metadata, and code in the environment.
+ 
+ C.2.7: Clear records of all data in the environment. This includes open data, geography lookups and data extracts.
+ 
+ C.2.8: The processor clearly specifies data ownership in their environment, including the ownership of research outputs.
+ 
+ C.5.4: Share records of the data available in the processors’ environment under the DEA.",
+Information governance,1.4.7.,You should keep a complete record of all the research studies and projects within the TRE current and past.,"The study register should contain all data related to a study including a reference to data assets, project team members, information asset owners and any compliance activities required.",Recommended,2,,"E-1: Hardware, software, and data assets have been identified, documented and classified. Asset logs, inventories, registers, etc.
+
+E-2: Hardware, software, and data asset registers/inventories are subject to periodic risk assessment. Copies of risk assessments, risk management policy or procedure. ","C.1.1: Maintain sufficiently detailed records, including any accreditation conditions, of all projects in the processor’s environment.",
+Information governance,1.5.1.,"You must have a robust method for identifying accredited members of your TRE organisation, prior to their accessing of sensitive data.",This may include ID checks or email/phone verification.,Mandatory,2,A5.16: Indentity Management. The full life cycle of identities shall be managed.,"F-1: Access to information is controlled, and is granted only to authorised users. Access Control Policy and processes.
+
+F-2: A formal user access provisioning process has been implemented to assign access rights to staff. New start process or procedure. 
+
+F-3: The allocation and use of privileged access rights is restricted and controlled. Privileged Access Rights/Administrator Access policy, procedures, code of conduct, rules. Evidence of the process followed to allocate privileged access. 
+
+F-4: User access rights are reviewed at regular intervals, and where no longer required are removed in a timely fashion. Responsibility for these reviews is assigned to appropriate individuals. Evidence of access reviews or audits. Evidence of responsibility for reviews being appropriately assigned. Evidence of access being removed from staff who no longer require it (i.e. who are leaving the organisation). 
+
+F-5: Access rights are adjusted upon a change of assignment/role. Internal mover process.
+
+F-6: Users are responsible for safeguarding their authentication information. Guidance given to staff around keeping authentication information secret. 
+
+F-7: Where passwords are used for user authentication there are effective and up to date rules in place regarding length, complexity, and periodic password changes. Existing requirements are subject to periodic effectiveness reviews. Password rules or requirements. Evidence of reviews against new best practice recommendations. 
+
+F-8: Processes are in place to ensure that default passwords are changed, and to control the use of shared passwords. Evidence of default passwords being changed. Rules regarding the sharing of passwords. ","C.1.4: Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey.
+ 
+ C.4.4: Processor maintains clear and consistent records of all service users, including researchers’ accreditation and training.",
+Information governance,1.5.2.,You must have clear onboarding processes in place for all roles within your TRE organisation.,This may include all members signing role-specific terms of use or confirming that they have completed role specific training.,Mandatory,2,"A6.1: Screening. Background verification checks on all candidates to become personnel shall be carried out prior to joining the organization and on an ongoing basis taking into consideration applicable laws, regulations and ethics and be proportional to the business requirements, the classification of the information to be accessed and the perceived risks.
+
+A6.2: Terms and conditions of employment. The employment contractual agreements shall state the personnel’s and the organization’s responsibilities for information security.
+
+A6.3: Information security awareness, education and training. Personnel of the organization and relevant interested parties shall receive appropriate information security awareness, education and training and regular updates of the organization's information security policy, topic-specific policies and procedures, as relevant for their job function.
+
+A6.4: Disciplinary process. A disciplinary process shall be formalized and communicated to take actions against personnel and other relevant interested parties who have committed an information security policy violation.
+
+A6.5: Responsibilities after termination or change of employment. Information security responsibilities and duties that remain valid after termination or change of employment shall be defined, enforced and communicated to relevant personnel and other interested parties.
+
+A6.6: Confidentiality or non-disclosure agreements. Confidentiality or non-disclosure agreements reflecting the organization’s needs for the protection of information shall be identified, documented, regularly reviewed and signed by personnel and other relevant interested parties.","D-1: Employee contracts are in place and include clauses relevant to information security. Copy of employment contracts.
+
+D-2: Education and skill requirements for new hires, related to information security, are determined in advance by staff with sufficient information security knowledge and understanding, and are approved by appropriate senior staff. Evidence of process for determining and approving education and skill requirements, including evidence of sign off by senior staff such as emails or minutes. 
+
+D-3: Prior to employment beginning, appropriate background checks and/or security vetting is performed on all employees or contractors. Evidence of background checks or vetting. 
+
+D-4: Disciplinary procedures are in place and are sufficient to handle information security related misconduct or breaches. Evidence of disciplinary processes, procedures, or policies. 
+
+D-5: Documented processes are in place to handle information security issues relating to the termination or alteration of employment. 
+
+J-1: Formal transfer policies, procedures and controls are in place across all communication facilities, including electronic messaging. 
+
+J-2: Agreements covering secure transfer are in place between the organisation and external parties.
+
+J-3: Requirements for confidentiality or non-disclosure agreements are identified, regularly reviewed and documented.","C.1.4: Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey.
+ 
+ C.3.1: Demonstrate that staff have the relevant skills and/or experience, security clearance, training, and support to provision all functions of the processor in line with relevant policies. Evidence of ongoing assessment and development of staff.
+ 
+ C.4.4: Processor maintains clear and consistent records of all service users, including researchers’ accreditation and training.",
+Information governance,1.5.3.,You must have a set of services to manage access to resources based on identity.,This will include a security model for role based access with technical controls to ensure the principle of least privilege is enforced.,Mandatory,2,"A8.2: Privileged access rights. The allocation and use of privileged access rights shall be restricted and managed.
+A8.3:Information access restriction. Access to information and other associated assets shall be restricted in accordance with the established topic-specific policy on access control.","F-1: Access to information is controlled, and is granted only to authorised users. Access Control Policy and processes.
+
+F-2: A formal user access provisioning process has been implemented to assign access rights to staff. New start process or procedure. 
+
+F-3: The allocation and use of privileged access rights is restricted and controlled. Privileged Access Rights/Administrator Access policy, procedures, code of conduct, rules. Evidence of the process followed to allocate privileged access. 
+
+F-4: User access rights are reviewed at regular intervals, and where no longer required are removed in a timely fashion. Responsibility for these reviews is assigned to appropriate individuals. Evidence of access reviews or audits. Evidence of responsibility for reviews being appropriately assigned. Evidence of access being removed from staff who no longer require it (i.e. who are leaving the organisation). 
+
+F-5: Access rights are adjusted upon a change of assignment/role. Internal mover process.
+
+F-6: Users are responsible for safeguarding their authentication information. Guidance given to staff around keeping authentication information secret. 
+
+F-7: Where passwords are used for user authentication there are effective and up to date rules in place regarding length, complexity, and periodic password changes. Existing requirements are subject to periodic effectiveness reviews. Password rules or requirements. Evidence of reviews against new best practice recommendations. 
+
+F-8: Processes are in place to ensure that default passwords are changed, and to control the use of shared passwords. Evidence of default passwords being changed. Rules regarding the sharing of passwords. ",,
+Information governance,1.5.4.,You must not give anyone access to datasets without agreement from the Data Controller.,The Data Controller may choose to delegate this authority.,Mandatory,2,"A5.15: Access Control. Rules to control physical and logical access to information and other associated assets shall be established and implemented based on business and information security requirements.
+A5.18: Access rights. Access rights to information and other associated assets shall be provisioned, reviewed, modified and removed in accordance with the organization’s topic-specific policy on and rules for access control.","F-1: Access to information is controlled, and is granted only to authorised users. Access Control Policy and processes.
+
+F-2: A formal user access provisioning process has been implemented to assign access rights to staff. New start process or procedure. 
+
+F-3: The allocation and use of privileged access rights is restricted and controlled. Privileged Access Rights/Administrator Access policy, procedures, code of conduct, rules. Evidence of the process followed to allocate privileged access. 
+
+F-4: User access rights are reviewed at regular intervals, and where no longer required are removed in a timely fashion. Responsibility for these reviews is assigned to appropriate individuals. Evidence of access reviews or audits. Evidence of responsibility for reviews being appropriately assigned. Evidence of access being removed from staff who no longer require it (i.e. who are leaving the organisation). 
+
+F-5: Access rights are adjusted upon a change of assignment/role. Internal mover process.
+
+F-6: Users are responsible for safeguarding their authentication information. Guidance given to staff around keeping authentication information secret. 
+
+F-7: Where passwords are used for user authentication there are effective and up to date rules in place regarding length, complexity, and periodic password changes. Existing requirements are subject to periodic effectiveness reviews. Password rules or requirements. Evidence of reviews against new best practice recommendations. 
+
+F-8: Processes are in place to ensure that default passwords are changed, and to control the use of shared passwords. Evidence of default passwords being changed. Rules regarding the sharing of passwords. ","C.1.1. Maintain sufficiently detailed records, including any accreditation conditions, of all projects in the processor’s environment. 
+ 
+ C.1.4: Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey.
+ 
+ C.2.1. Maintain clear and consistent records of legal agreements that outline how data is accessed, processed, and used in the environment.
+ 
+ C.2.2. Evidenced and appropriate procedures to manage data, metadata, and code in the environment.",
+Information governance,1.5.5.,You must have robust and secure applications in place to authenticate users (and services) within the TRE.,"The number of authentication applications should be kept to a minimum with common controls and standards applied across all such as MFA, password complexity *etc.*.",Mandatory,2,"A5.17: Authentication information. Allocation and management of authentication information shall be controlled by a management process, including advising personnel on appropriate handling of authentication information.
+A8.5: Secure authentication. Secure authentication technologies and procedures shall be implemented based on information access restrictions and the topic-specific policy on access control.","F-1: Access to information is controlled, and is granted only to authorised users. Access Control Policy and processes.
+
+F-2: A formal user access provisioning process has been implemented to assign access rights to staff. New start process or procedure. 
+
+F-3: The allocation and use of privileged access rights is restricted and controlled. Privileged Access Rights/Administrator Access policy, procedures, code of conduct, rules. Evidence of the process followed to allocate privileged access. 
+
+F-4: User access rights are reviewed at regular intervals, and where no longer required are removed in a timely fashion. Responsibility for these reviews is assigned to appropriate individuals. Evidence of access reviews or audits. Evidence of responsibility for reviews being appropriately assigned. Evidence of access being removed from staff who no longer require it (i.e. who are leaving the organisation). 
+
+F-5: Access rights are adjusted upon a change of assignment/role. Internal mover process.
+
+F-6: Users are responsible for safeguarding their authentication information. Guidance given to staff around keeping authentication information secret. 
+
+F-7: Where passwords are used for user authentication there are effective and up to date rules in place regarding length, complexity, and periodic password changes. Existing requirements are subject to periodic effectiveness reviews. Password rules or requirements. Evidence of reviews against new best practice recommendations. 
+
+F-8: Processes are in place to ensure that default passwords are changed, and to control the use of shared passwords. Evidence of default passwords being changed. Rules regarding the sharing of passwords. ",,
+Information governance,1.5.6.,You must give each user of the TRE a unique logon with changes to any records strictly controlled.,"The unique identifier and all associated records for a user should be traceable across the entire TRE.
+This will include training records, affiliations, contract agreements and ethics approvals where required.",Mandatory,2,,"F-1: Access to information is controlled, and is granted only to authorised users. Access Control Policy and processes.
+
+F-2: A formal user access provisioning process has been implemented to assign access rights to staff. New start process or procedure. 
+
+F-3: The allocation and use of privileged access rights is restricted and controlled. Privileged Access Rights/Administrator Access policy, procedures, code of conduct, rules. Evidence of the process followed to allocate privileged access. 
+
+F-4: User access rights are reviewed at regular intervals, and where no longer required are removed in a timely fashion. Responsibility for these reviews is assigned to appropriate individuals. Evidence of access reviews or audits. Evidence of responsibility for reviews being appropriately assigned. Evidence of access being removed from staff who no longer require it (i.e. who are leaving the organisation). 
+
+F-5: Access rights are adjusted upon a change of assignment/role. Internal mover process.
+
+F-6: Users are responsible for safeguarding their authentication information. Guidance given to staff around keeping authentication information secret. 
+
+F-7: Where passwords are used for user authentication there are effective and up to date rules in place regarding length, complexity, and periodic password changes. Existing requirements are subject to periodic effectiveness reviews. Password rules or requirements. Evidence of reviews against new best practice recommendations. 
+
+F-8: Processes are in place to ensure that default passwords are changed, and to control the use of shared passwords. Evidence of default passwords being changed. Rules regarding the sharing of passwords. ",,
+Information governance,1.6.1.,You must determine what training is relevant for all roles within the TRE organisation.,"This may include, for instance, cyber security training, GDPR training, and higher level training for system operators.
+Specialised roles are likely to need more tailored training.
+Identification of these specialities should be done through a systematic training needs analysis.
+Specific training may also be required based on the data or information asset owner such as GCP.",Mandatory,2,"A6.2: Terms and conditions of employment. The employment contractual agreements shall state the personnel’s and the organization’s responsibilities for information security.
+A6.3: Information security awareness, education and training. Personnel of the organization and relevant interested parties shall receive appropriate information security awareness, education and training and regular updates of the organization's information security policy, topic-specific policies and procedures, as relevant for their job function.
+Clauses 7.2 (Competence) and 7.3 (Awareness)","C-4: Information security is incorporated within a formal training programme, including as part of induction and with a documented and effective refresher programme. Evidence of the training programme, including content, slides, screenshots, training plans, induction training processes, and tracking of refresher training.  
+C-5: Staff in security related specialist roles, or in roles with potentially significant impact on information security, have been assessed to see whether they should receive additional information security training relevant to their roles, and where appropriate that training has been provided. Evidence of training needs analysis, and of the content of specialist training. Evidence that specialist training is tracked and where necessary refreshed on a regular basis.
+C-6: Good information security practices are promoted across the organisation. Evidence of programmes or activities to raise awareness of information security across the organisation. ","C.3.1: Demonstrate that staff have the relevant skills and/or experience, security clearance, training, and support to provision all functions of the processor in line with relevant policies. Evidence of ongoing assessment and development of staff.",
+Information governance,1.6.2.,You must ensure that relevant training is available for all roles within the TRE organisation.,"All TRE organisation members need to complete all relevant training and keep their training current.
+You may need to provide help or guidance to enable them to do so.
+Details of what training is needed will have been determined above.",Mandatory,2,"A6.3: Information security awareness, education and training. Personnel of the organization and relevant interested parties shall receive appropriate information security awareness, education and training and regular updates of the organization's information security policy, topic-specific policies and procedures, as relevant for their job function.
+Clauses 7.2 (Competence) and 7.3 (Awareness)","C-4: Information security is incorporated within a formal training programme, including as part of induction and with a documented and effective refresher programme. Evidence of the training programme, including content, slides, screenshots, training plans, induction training processes, and tracking of refresher training.  
+C-5: Staff in security related specialist roles, or in roles with potentially significant impact on information security, have been assessed to see whether they should receive additional information security training relevant to their roles, and where appropriate that training has been provided. Evidence of training needs analysis, and of the content of specialist training. Evidence that specialist training is tracked and where necessary refreshed on a regular basis.
+C-6: Good information security practices are promoted across the organisation. Evidence of programmes or activities to raise awareness of information security across the organisation. ","C.3.1: Demonstrate that staff have the relevant skills and/or experience, security clearance, training, and support to provision all functions of the processor in line with relevant policies. Evidence of ongoing assessment and development of staff.",
+Information governance,1.6.3.,You must provide repeat or updated training where necessary to account for changes in competency requirements.,"Training is not a one-off event.
+Electronic reminders for refresher training should be considered.
+Ideally, training should remain relevant and so policies and processes should enable people to demonstrate competency rather than unnecessarily repeating training.",Mandatory,2,"A6.3: Information security awareness, education and training. Personnel of the organization and relevant interested parties shall receive appropriate information security awareness, education and training and regular updates of the organization's information security policy, topic-specific policies and procedures, as relevant for their job function.
+Clauses 7.2 (Competence) and 7.3 (Awareness)","C-4: Information security is incorporated within a formal training programme, including as part of induction and with a documented and effective refresher programme. Evidence of the training programme, including content, slides, screenshots, training plans, induction training processes, and tracking of refresher training.  
+C-5: Staff in security related specialist roles, or in roles with potentially significant impact on information security, have been assessed to see whether they should receive additional information security training relevant to their roles, and where appropriate that training has been provided. Evidence of training needs analysis, and of the content of specialist training. Evidence that specialist training is tracked and where necessary refreshed on a regular basis.
+C-6: Good information security practices are promoted across the organisation. Evidence of programmes or activities to raise awareness of information security across the organisation. ",,
+Information governance,1.6.4.,You must maintain accurate training records that are directly tied to the role and access levels within the TRE.,"Training records should be tied to a user record and carefully maintained.
+Maintaining training records enables you to ensure all people have completed the required training and that repeat training happens regularly.",Mandatory,2,"A6.3: Information security awareness, education and training. Personnel of the organization and relevant interested parties shall receive appropriate information security awareness, education and training and regular updates of the organization's information security policy, topic-specific policies and procedures, as relevant for their job function.
+Clauses 7.2 (Competence) and 7.3 (Awareness)","C-4: Information security is incorporated within a formal training programme, including as part of induction and with a documented and effective refresher programme. Evidence of the training programme, including content, slides, screenshots, training plans, induction training processes, and tracking of refresher training.  
+C-5: Staff in security related specialist roles, or in roles with potentially significant impact on information security, have been assessed to see whether they should receive additional information security training relevant to their roles, and where appropriate that training has been provided. Evidence of training needs analysis, and of the content of specialist training. Evidence that specialist training is tracked and where necessary refreshed on a regular basis.
+C-6: Good information security practices are promoted across the organisation. Evidence of programmes or activities to raise awareness of information security across the organisation. ",,
+Information governance,1.6.5.,You should accept proof of relevant training certifications from trusted third parties.,You might choose to trust certifications provided by known training providers or your institution’s partner organisations.,Recommended,2,"A6.3: Information security awareness, education and training. Personnel of the organization and relevant interested parties shall receive appropriate information security awareness, education and training and regular updates of the organization's information security policy, topic-specific policies and procedures, as relevant for their job function.
+Clauses 7.2 (Competence) and 7.3 (Awareness)","C-4: Information security is incorporated within a formal training programme, including as part of induction and with a documented and effective refresher programme. Evidence of the training programme, including content, slides, screenshots, training plans, induction training processes, and tracking of refresher training.  
+C-5: Staff in security related specialist roles, or in roles with potentially significant impact on information security, have been assessed to see whether they should receive additional information security training relevant to their roles, and where appropriate that training has been provided. Evidence of training needs analysis, and of the content of specialist training. Evidence that specialist training is tracked and where necessary refreshed on a regular basis.
+C-6: Good information security practices are promoted across the organisation. Evidence of programmes or activities to raise awareness of information security across the organisation. ","C.1.4: Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey.
+ 
+ C.3.1: Demonstrate that staff have the relevant skills and/or experience, security clearance, training, and support to provision all functions of the processor in line with relevant policies. Evidence of ongoing assessment and development of staff.
+ 
+ C.5.3: The training course offered to researchers is recognised by the accrediting body and processors provide evidence that it is being regularly reviewed.",
+Information governance,1.6.6.,You could have a training platform capable of delivering online training in a variety of formats.,"This could be a simple content delivery platform or a more comprehensive LMS platform.
+It could also include a range of multimedia delivery formats, and accessible training modules for those with access requirements.",Optional,1,,,,
+Information governance,1.6.7.,You could implement a learning management system (LMS) to manage courses and deliver training as required.,Where possible an LMS should support a variety of course content and testing.,Optional,2,"A.6.3 – Information security awareness, education and training
+
+Persons of the organisation and relevant interested parties shall receive appropriate information security awareness, education and training and shall be updated as necessary to respond to changes in information security requirements relevant to their job function",,,
+Information governance,1.6.8.,"You could ensure that any courses you use are available in standard, transferable formats.","Support for standard formats such as SCORM allows courses to be shared between providers.
+This could help facilitate standardisation of training provision for TRE users across organisations.",Optional,0,,,,
+Information governance,1.6.9.,You could keep historical copies of courses in order to demonstrate competency at a given point in time.,"Information asset owners and regulators may be required to audit historical records, *e.g.* for clinical trials.
+It may be necessary to retain copies of superseded training along with versions of certifications within the training record.",Optional,2,"A6.3: Information security awareness, education and training. Personnel of the organization and relevant interested parties shall receive appropriate information security awareness, education and training and regular updates of the organization's information security policy, topic-specific policies and procedures, as relevant for their job function.
+Clauses 7.2 (Competence) and 7.3 (Awareness)","C-4: Information security is incorporated within a formal training programme, including as part of induction and with a documented and effective refresher programme. Evidence of the training programme, including content, slides, screenshots, training plans, induction training processes, and tracking of refresher training.  
+C-5: Staff in security related specialist roles, or in roles with potentially significant impact on information security, have been assessed to see whether they should receive additional information security training relevant to their roles, and where appropriate that training has been provided. Evidence of training needs analysis, and of the content of specialist training. Evidence that specialist training is tracked and where necessary refreshed on a regular basis.
+C-6: Good information security practices are promoted across the organisation. Evidence of programmes or activities to raise awareness of information security across the organisation. ","Not explicitly covered, but relevant controls include:
+ 
+ C.3.1: Demonstrate that staff have the relevant skills and/or experience, security clearance, training, and support to provision all functions of the processor in line with relevant policies. Evidence of ongoing assessment and development of staff.
+ 
+ Providing and managing training (for both staff and researchers) also partly covered by several other controls.",
+Computing technology and Information Security,2.1.1.,You must not allow users to copy data out of your TRE via the system clipboard.,"A TRE user must not be able to copy sensitive data out of a workspace using the system clipboard.
+A TRE may allow user to paste text into a workspace.
+This might not be relevant to your TRE, for example if your user interface does not have a clipboard.",Mandatory,2,"A8.12: Data leakage prevention. Data leakage prevention measures shall be applied to systems, networks and any other devices that process, store or transmit sensitive information.",,"Implicitly covered by 
+ C.2.2. Evidenced and appropriate procedures to manage data, metadata, and code in the environment.",
+Computing technology and Information Security,2.1.2.,Your TRE workspace should provide an environment familiar to your users.,"This may take the form of a virtual Windows or Linux desktops, non-desktop interfaces such as JupyterLab and other web applications, or a terminal.
+Bespoke TRE-specific software should be avoided when widely used alternatives already exist.",Recommended,2,,,,
+Computing technology and Information Security,2.1.3.,A TRE could restrict data access from data consumers entirely and provide an interface for submitting code.,"For example, you might use a system where users submit jobs that run over the data and return results without allowing direct data access.",Optional,2,,,"Partly covered by:
+ C.2.3. Clear procedures and records managing data and code brought in by 
+ researchers.",
+Computing technology and Information Security,2.1.4.,Your TRE should be accessed via a user interface accessible using commonly available applications.,"TREs which allow users to connect from their own devices should not require the installation of any bespoke TRE application on the user’s device.
+In practice a web browser is the most common way to achieve this.",Recommended,2,,,,
+Computing technology and Information Security,2.1.5.,Your TRE must provide clear guidance on how to use software tools and work with data in the TRE.,"TREs that provide a virtual desktop environment for data consumers to work in should provide documentation detailing the available tools.
+TREs where the analysis code is developed on the access machine (as oppose to within the TRE) should provide documentation detailing the mechanism by which code is submitted to the TRE.",Mandatory,1,,,"C.1.3: Clearly communicate the available statistical/analytical software in the environment and manage any changes to software and its impact to research.
+ 
+ C.1.6 Record and review any requests for specialist software and code for all projects.
+ 
+ C.4.6. Processor provides access to policies and procedures on how researchers can interact with code repositories in the environment before researchers access the environment.",
+Computing technology and Information Security,2.1.6.,"Your TRE should, where possible, automatically apply security related updates for user software.",Reducing the risk of exploitable vulnerabilities in installed software will increase the security of your TRE.,Recommended,2,"A8.15: Logging. Logs that record activities, exceptions, faults and other relevant events shall be produced, stored, protected and analysed.
+
+A8.16: Monitoring Activities. Networks, systems and applications shall be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.
+
+A8.7: Protection against malware. Protection against malware shall be implemented and supported by appropriate user awareness.
+
+A8.8: Management of technical vulnerabilities. Information about technical vulnerabilities of information systems in use shall be obtained, the organisation’s exposure to such vulnerabilities shall be evaluated and appropriate measures shall be taken.
+
+A8.9: Configuration management. Configurations, including security configurations, of hardware, software, services and networks shall be established, documented, implemented, monitored and reviewed.","I-5: Where appropriate, logging and monitoring is in place to record user activities, security events, and to generate evidence. Site visit. Screenshots of logs or of monitoring dashboards. Guidance or comms for staff relating to logging and monitoring. ",,
+Computing technology and Information Security,2.1.7.,Your TRE could provide shared services that are accessible to users in the same project.,"This may include shared file storage, databases, collaborative writing, and other web applications.
+This must only be shared amongst users within the same project.",Optional,1,,,,
+Computing technology and Information Security,2.1.8,Your TRE must ensure that any shared services are only available to users working on the same project.,"Poorly designed shared services could enable the unintended mixing of data between projects.
+To prevent this it is necessary that each instance is only shared between users of a single project.",Mandatory,2,,,"Not expliclitly stated, but intention partly covered by 
+ C.2.2. Evidenced and appropriate procedures to manage data, metadata, and code in the environment.",
+Computing technology and Information Security,2.1.9.,You must mitigate and record any risks introduced by the use in your TRE of software that requires telemetry to function.,"For example, some licenced commercial software must contact an external licensing server at start-up.
+You must be confident that only licensing information is sent to this server and that any network connections are secure.",Mandatory,2,,,"Not explicitly mentioned, but possibly implied in:
+ 
+ C.2.3. Clear procedures and records managing data and code brought in by researchers.",
+Computing technology and Information Security,2.1.10.,Your TRE must provide software applications that are relevant to working with the data in the TRE.,"The tools provided will depend on the types of data in the TRE, and the expectations of users of the TRE.
+For users working in a TRE via a virtual desktop, this may include programming languages such as Python and R, integrated development environments, Jupyter notebooks, office type applications such as word processors and spreadsheets, command line tools, etc.
+TREs with non-desktop interfaces should similarly consider carefully which applications are best suited for the data consumers needs when interacting with the data, for example “point and click” GUI tools for querying a database and generating plots of data.
+The set of tools should be reviewed regularly to ensure they are up to date.",Mandatory,2,,,"C.1.3: Clearly communicate the available statistical/analytical software in the environment and manage any changes to software and its impact to research.
+ 
+ C.4.6. Processor provides access to policies and procedures on how researchers can interact with code repositories in the environment before researchers access the environment.",
+Computing technology and Information Security,2.1.11.,Your TRE should provide tools to encourage best-practice in reproducibly analysing data.,"Reproducibility of analyses improves auditability and accountability of how data has been used, as well as being best-practice in research.
+This may include version control software, and tools for developing and running data analysis pipelines.",Recommended,2,,,"C.1.3: Clearly communicate the available statistical/analytical software in the environment and manage any changes to software and its impact to research.
+ 
+ C.4.6. Processor provides access to policies and procedures on how researchers can interact with code repositories in the environment before researchers access the environment.",
+Computing technology and Information Security,2.1.12.,Your TRE could provide access to some public software repositories or container registries.,"For example, a TRE may allow direct installation of packages from Python or R repositories, or provide an internal mirror.",Optional,2,,,"C.1.3: Clearly communicate the available statistical/analytical software in the environment and manage any changes to software and its impact to research.
+ 
+ C.1.6. Record and review any requests for specialist software for all projects. 
+ 
+ C.2.3. Clear procedures and records managing data and code brought in by researchers. 
+ 
+ C.4.6. Processor provides access to policies and procedures on how researchers 
+ can interact with code repositories in the environment before researchers access 
+ the environment.",
+Computing technology and Information Security,2.1.13.,Your TRE could tightly control which packages are available.,"For example, a TRE may only allow installation of a pre-defined set of approved packages.
+You might also choose to scan for malicious packages and/or go through an approval process before allowing code into the technical environment.",Optional,1,,,"C.1.3: Clearly communicate the available statistical/analytical software in the environment and manage any changes to software and its impact to research.
+ 
+ C.2.3. Clear procedures and records managing data and code brought in by researchers. 
+ 
+ C.4.6. Processor provides access to policies and procedures on how researchers can interact with code repositories in the environment before researchers access 
+ the environment.",
+Computing technology and Information Security,2.1.14.,Your TRE must maintain segregation of users and data from different projects when using non-standard compute.,"High performance or specialist compute is often shared amongst multiple users.
+Users and data must remain segregated at all times.
+For example, when using physical compute resources, all sensitive data could be securely wiped before another user is given access to that same node.
+In a cloud hosted TRE virtual machines could be destroyed and recreated.",Mandatory,2,A5.3: Segregation of Duties. Conflicting duties and conflicting areas of responsibilities shall be segregated.,,,
+Computing technology and Information Security,2.1.15.,Your TRE should be able to provide access to high performance computing or other scalable compute resource if required by users.,"If a TRE supports users conducting computationally intensive research it should provide access to dynamically scalable compute or the equivalent.
+For example this may be in the form of a batch scheduler on a HPC cluster, or a dynamically created compute nodes on a cloud platform.",Recommended,2,,,,
+Computing technology and Information Security,2.1.16.,Your TRE should be able to provide access to accelerators such as GPUs if required by users.,"GPUs and other accelerators are commonly used in machine learning and other computationally intensive research.
+TREs should make it clear to users whether GPUs and other resources are available whilst projects are being assessed.",Recommended,2,,,,
+Computing technology and Information Security,2.1.17.,"Your TRE could make data available to data consumers using common database systems such as PostgreSQL, MSSQL or MongoDB.","Databases must be secured and only accessible to users within the same project.
+If shared (multi-tenant) database servers are used, database administrators must ensure that the database server enforces segregation of users and databases belonging to different projects.",Optional,0,,,,
+Computing technology and Information Security,2.1.18.,Your TRE could integrate with large-scale data analytics tools for working with large datasets.,"For example, Spark and Hadoop can be used for distributed computing across a cluster.
+This may be an advantage where a TRE is using an amount of data that is too large for single-machine computing to be practical.",Optional,0,,,,
+Computing technology and Information Security,2.2.1.,You must have a documented procedure for deploying infrastructure.,"This might, for instance, be a handbook that is followed or a set of automated scripts.",Mandatory,2,A5.37: Documented operating procedures. Operating procedures for information processing facilities shall be documented and made available to personnel who need them.,"I-1: Operational procedures and responsibilities are implemented to ensure correct and secure operations of systems, services, and infrastructure. Documented SysOp procedures.",,
+Computing technology and Information Security,2.2.2.,"You should, where possible, automate any repeatable aspects of your deployment.",This might involve using infrastructure-as-code tools or a series of scripts.,Recommended,1,,,N/A (although implicitly covered by the 'proactiveness' maturity assessment),
+Computing technology and Information Security,2.2.3.,You must have a documented procedure for making changes to deployed infrastructure.,"This refers both to changes that might be expected in the course of normal operation and emergency changes that might be needed.
+Your change management process may form part of a wider accreditation such as ISO 27001.",Mandatory,2,A8.32: Change management: Changes to information processing facilities and information systems shall be subject to change management procedures.,"K-6: Effective change control practices are utilised in the role out of new or updated software, including the appropriate use of test environments, and the documentation of rollback plans. Copies of change control policies, procedures, or guidance. Copies of rollback plans. Documentation of development, test, live segregation. 
+
+",,
+Computing technology and Information Security,2.2.4.,You must test changes before they are used in production.,This might involve a separate development environment or another system for testing.,Mandatory,2,"A8.25: Secure development lifecycle. Rules for the secure development of software and systems shall be established and applied.
+
+A8.29: Security testing in development and acceptance. Security testing processes shall be defined and implemented in the development life cycle.
+
+A8.31: Separation of development, test and production environments. Development, testing and production environments shall be separated and secured.","K-6: Effective change control practices are utilised in the role out of new or updated software, including the appropriate use of test environments, and the documentation of rollback plans. Copies of change control policies, procedures, or guidance. Copies of rollback plans. Documentation of development, test, live segregation. 
+",,
+Computing technology and Information Security,2.2.5.,You should have a development environment that mirrors your production environment which you use to test infrastructure changes before committing them to production.,"If possible, you should automate application of changes between development and production environments.
+Consider the costs and practicality of whether this will work for your situation.",Recommended,0,,,,
+Computing technology and Information Security,2.2.6.,You must have a documented procedure for removing infrastructure when it is no longer needed.,Removing unused infrastructure not only reduces costs and management burden but also reduces the attack surface of a TRE and reduces the risk of unaddressed vulnerabilities.,Mandatory,2,"A5.37: Documented operating procedures. Operating procedures for information processing facilities shall be documented and made available to personnel who need them.
+
+A7.10: Storage Media. Storage media shall be managed through their life cycle of acquisition, use, transportation and disposal in accordance with the organization’s classification scheme and handling requirements.","I-1: Operational procedures and responsibilities are implemented to ensure correct and secure operations of systems, services, and infrastructure. Documented SysOp procedures.
+
+E-8: Removeable media is disposed of securely when no longer required, using formal procedures. Relevant policies or procedures, evidence of disposal being tracked and controlled. ",,
+Computing technology and Information Security,2.2.7.,You should understand the availability and uptime guarantees of any providers that you rely on.,"For remote TREs this might include your cloud provider(s) and/or data centre operators.
+For on-premises TREs, it might be worth using an uninterruptable power supply (UPS) and planning how you would deal with internet outages.",Recommended,0,,,,
+Computing technology and Information Security,2.2.8.,You should develop an availability target or statement and share this with your users.,Understanding how and when the TRE might be unavailable will help your projects in planning their work.,Recommended,1,,,"Partly covered by:
+ 
+ C.4.1. Publicly provide information the functions and services provided, including 
+ accessibility and performance information regarding these services.",
+Computing technology and Information Security,2.2.9.,Your TRE must control and manage all of its network infrastructure in order to protect information in systems and applications.,"Network infrastructure must prevent unauthorised access to resources on the network.
+This may include firewalls, network segmentation, and restricting connections to the network.",Mandatory,2,"A8.20: Networks security. Networks and network devices shall be secured, managed and controlled to protect information in systems and applications.
+
+A8.21: Security of network services. Security mechanisms, service levels and service requirements of network services shall be identified, implemented and monitored.",,,
+Computing technology and Information Security,2.2.10.,"Your TRE must not allow connectivity between users in different projects, or with access to different datasets.","Connectivity between users in the same project may be allowed, for example to support shared network services within the project.",Mandatory,2,,"F-1: Access to information is controlled, and is granted only to authorised users. Access Control Policy and processes.
+
+F-2: A formal user access provisioning process has been implemented to assign access rights to staff. New start process or procedure. 
+
+F-3: The allocation and use of privileged access rights is restricted and controlled. Privileged Access Rights/Administrator Access policy, procedures, code of conduct, rules. Evidence of the process followed to allocate privileged access. 
+
+F-4: User access rights are reviewed at regular intervals, and where no longer required are removed in a timely fashion. Responsibility for these reviews is assigned to appropriate individuals. Evidence of access reviews or audits. Evidence of responsibility for reviews being appropriately assigned. Evidence of access being removed from staff who no longer require it (i.e. who are leaving the organisation). 
+
+F-5: Access rights are adjusted upon a change of assignment/role. Internal mover process.
+
+F-6: Users are responsible for safeguarding their authentication information. Guidance given to staff around keeping authentication information secret. 
+
+F-7: Where passwords are used for user authentication there are effective and up to date rules in place regarding length, complexity, and periodic password changes. Existing requirements are subject to periodic effectiveness reviews. Password rules or requirements. Evidence of reviews against new best practice recommendations. 
+
+F-8: Processes are in place to ensure that default passwords are changed, and to control the use of shared passwords. Evidence of default passwords being changed. Rules regarding the sharing of passwords. ",,
+Computing technology and Information Security,2.2.11.,Your TRE must block outbound connections to the internet by default.,Limited outbound connectivity may be allowed for some services.,Mandatory,2,A8.23: Web Filtering. Access to external websites shall be managed to reduce exposure to malicious content.,,,
+Computing technology and Information Security,2.2.12.,You should be able to monitor the network configuration of your TRE to check for misconfigurations and vulnerabilities.,"This may include regular vulnerability scanning, and penetration testing.",Recommended,2,"A8.8: Management of technical vulnerabilities. Information about technical vulnerabilities of information systems in use shall be obtained, the organisation’s exposure to such vulnerabilities shall be evaluated and appropriate measures shall be taken.","K-3: Effective vulnerability scanning and penetration testing practices are in place. Site visit. Screenshots or copies of relevant dashboards, reports, or alerts. Copy of pen test reports. ",,
+Computing technology and Information Security,2.2.13.,You should regularly monitor the network configuration of your TRE to check for misconfigurations and vulnerabilities.,This will involve following the monitoring procedure detailed above.,Recommended,2,"A8.16: Monitoring Activities. Networks, systems and applications shall be monitored for anomalous behaviour and appropriate actions taken to evaluate potential information security incidents.","I-5: Where appropriate, logging and monitoring is in place to record user activities, security events, and to generate evidence. Site visit. Screenshots of logs or of monitoring dashboards. Guidance or comms for staff relating to logging and monitoring. ",,
+Computing technology and Information Security,2.2.14.,Your TRE must record usage data.,"This may include the number of users, number of projects, the amount of data stored, number of datasets, the number of workspaces, etc.",Mandatory,2,,,"Covered by a combination of 
+ C.1.1. Maintain sufficiently detailed records, including any accreditation conditions, of all projects in the processor’s environment
+ 
+ C.1.2. Monitor research taking place in the processor’s environment, identify and report any significant deviation from accredited project conditions.
+ 
+ C.2.10 Auditable systems and practices to ensure that access to proportionate data provided (data minimisation)
+ 
+ C.4.4. Processor maintains clear and consistent records of all service users, 
+ including researchers’ accreditation and training.",
+Computing technology and Information Security,2.2.15.,"Your TRE should record which datasets are accessed, when and by who.",This helps maintain auditability of how sensitive data has been used.,Recommended,1,,,,
+Computing technology and Information Security,2.2.16.,Your TRE should record computational resource usage at the user or aggregate level.,"This is useful for optimising allocation of resources, and managing costs.",Recommended,0,,,,
+Computing technology and Information Security,2.3.1.,You must ensure that all projects understand what resources are available and what the associated costs will be before the project starts.,"For on-premises systems this might be related to the available hardware, for cloud-based systems there might be limits on how many instances of a particular resource (*e.g.* GPUs) can be used
+Projects should use this information to understand whether the available resources will be sufficient for their requirements.",Mandatory,1,,,"C.4.1. Publicly provide information the functions and services provided, including accessibility and performance information regarding these services.",
+Computing technology and Information Security,2.3.2.,You should ensure that the anticipated needs of projects can be satisfied using available resources.,"Note that this does not require you to accept requests for additional resources, but rather that promises made about resource availability before a project starts should be honoured wherever possible.",Recommended,1,,,C.4.2. Provide sufficient information on how researchers can interact with the service before researchers access the environment.,
+Computing technology and Information Security,2.3.3.,You must have a procedure for allocating available resources among projects.,"For cloud-based TREs this may involve scaling resources, such as virtual machines or databases, or deploying additional resources.
+For on-premises TREs this may involve a procurement process to ensure that necessary resources are available.
+Not all requests for capacity increase must necessarily be granted, but having a clear process will help projects understand when/why/how they can make use of additional capacity.",Mandatory,1,,,,
+Computing technology and Information Security,2.3.4.,You must ensure that the anticipated resource requirements will not result in overspending by the TRE.,"For cloud-based TREs this may involve budgeting and/or restricting resource consumption on a project-by-project basis.
+For on-premises TREs this may involve managing expectations to match the available resource.",Mandatory,1,,,,
+Computing technology and Information Security,2.4.1.,You must have a documented procedure for configuring infrastructure.,"This might, for instance, be a handbook that is followed or a set of automated scripts.",Mandatory,2,"A5.37: Documented operating procedures. Operating procedures for information processing facilities shall be documented and made available to personnel who need them. 
+","I-2: A secure baseline configuration has been defined, documented, and applied to all devices, applications, servers and mobile platforms. Documentation outlining any baseline configurations.",,
+Computing technology and Information Security,2.4.2.,You should use configuration management tools to automate application of your configuration wherever possible.,"This might involve configuration-as-code tools such as Ansible, Chef, Puppet or Windows Desired State Configuration or simply automated scripts.",Recommended,0,,,,
+Computing technology and Information Security,2.4.3.,You should be able to verify whether the configuration is valid.,"This might, for instance, involve running your configuration management tool in ‘check’ mode.",Recommended,0,,,,
+Computing technology and Information Security,2.4.4.,You should regularly verify your TRE configuration.,This will limit the amount of time the TRE can spend in a non-compliant state.,Recommended,0,,,,
+Computing technology and Information Security,2.4.5.,You must be able to replace a non-compliant TRE with a compliant system.,This might involve reconfiguring a running system or by replacing it with a compliant one.,Mandatory,2,,,,
+Computing technology and Information Security,2.5.1.,"You should keep backups of data and research environments, provided that this is permitted by law.","Keeping backups could help reduce the impact of events like accidental deletion and data corruption on work in a TRE.
+TRE developers may want to consider how different elements such as sensitive input data or users’ workspaces may be backed up, and whether they should be.",Recommended,2,"A8.13: Information backup. Backup copies of information, software and systems shall be maintained and regularly tested in accordance with the agreed topic-specific policy on backup.","I-4: Key systems, applications and data are backed up to protect against loss of data. Documented backups procedure or process. Evidence that back up restoration has been tested. ",,
+Computing technology and Information Security,2.5.2.,You should build redundancy into infrastructure and storage.,"Infrastructure should be as resilient as necessary to interruption.
+This could include redundant infrastructure in different physical locations, load balancing and replication of data between multiple storage locations.",Recommended,2,A8.14: Redundancy of information processing facilities. Information processing facilities shall be implemented with redundancy sufficient to meet availability requirements.,,,
+Computing technology and Information Security,2.5.3.,"You should keep backups of infrastructure, applications and configurations.",This may include virtualised infrastructure snapshots which can restored as needed to recover from failure.,Recommended,2,"A8.13: Information backup. Backup copies of information, software and systems shall be maintained and regularly tested in accordance with the agreed topic-specific policy on backup.",,,
+Computing technology and Information Security,2.5.4.,You must have procedures in place for rapid incident response.,"There may be legal requirements to disclose details of any incidents, such as data breaches for organisations subject to GDPR.
+Having robust processes in place will ensure a swift and effective response when an incident occurs.",Mandatory,2,"A6.8: Information security event reporting. The organization shall provide a mechanism for personnel to report observed or suspected information security events through appropriate channels in a timely manner.
+
+A5.24: Information security incident management planning and preparation. The organization shall plan and prepare for managing information security incidents by defining, establishing and communicating information security incident management processes, roles and responsibilities.
+
+A5.25: Assessment and decision on information security events. The organization shall assess information security events and decide if they are to be categorized as information security incidents.
+
+A5.26:Response to information security incidents. Information security incidents shall be responded to in accordance with the documented procedures.
+
+A5.27:Learning from information security incidents. Knowledge gained from information security incidents shall be used to strengthen and improve the information security controls.
+
+A5.28: Collection of evidence. The organization shall establish and implement procedures for the identification, collection, acquisition and preservation of evidence related to information security events.
+
+A5.29: Information security during disruption. The organization shall plan how to maintain information security at an appropriate level during disruption.
+
+A5.30: ICT readiness for business continuity. ICT readiness shall be planned, implemented, maintained and tested based on business continuity objectives and ICT continuity requirements.","M-1: Management and operational responsibilities are established and documented to ensure an efficient and effective response to information security incidents. Evidence of assigned responsibilities. 
+
+M-2: There are effective processes in place to ensure that information security incidents are internally reported, assessed, classified, managed, recorded, and analysed as quickly as possible. Evidence the organisation has established incident management procedures, including communication and reporting that is endorsed by responsible management. 
+
+M-3: Near misses and security events are recorded and assessed alongside full incidents. Incident log including near misses or events.
+
+M-4: Analysis and resolution of security incidents is used to reduce the likelihood or impact of future incidents. Records of lessons learned analysis. 
+
+N-1: There are business continuity and disaster recovery plans in place. Copies of BC and DR plans.
+
+N-2: The plans are tested on a periodic basis to ensure they remain up to date and fit for purpose, with tests being analysed afterwards for lessons learned. Evidence of tests being planned and carried out. Minutes of relevant discussions. Analysis and report documents. 
+
+N-3: Business continuity and disaster recovery plans are communicated / made available to staff. Copies of staff communications and guidance. 
+
+N-4: Where cloud infrastructure is in use, the organisation has documented consideration of fail over processes for data centre failure, and has considered the geography of where the data may reside in the event of an outage. Evidence of consideration, evidence of planned fail over locations. ",,
+Computing technology and Information Security,2.5.5.,You should test your incident response through simulation.,"During simulated incidents the TRE organisation can measure their effectiveness.
+This may involve people across the broader enterprise and/or external suppliers.",Recommended,2,"A5.30: ICT readiness for business continuity. ICT readiness shall be planned, implemented, maintained and tested based on business continuity objectives and ICT continuity requirements.","N-1: There are business continuity and disaster recovery plans in place. Copies of BC and DR plans.
+
+N-2: The plans are tested on a periodic basis to ensure they remain up to date and fit for purpose, with tests being analysed afterwards for lessons learned. Evidence of tests being planned and carried out. Minutes of relevant discussions. Analysis and report documents. 
+
+N-3: Business continuity and disaster recovery plans are communicated / made available to staff. Copies of staff communications and guidance. 
+
+N-4: Where cloud infrastructure is in use, the organisation has documented consideration of fail over processes for data centre failure, and has considered the geography of where the data may reside in the event of an outage. Evidence of consideration, evidence of planned fail over locations. ",,
+Computing technology and Information Security,2.5.6.,You should have an application in place to scan for vulnerabilities across infrastructure.,"Software used to identify vulnerabilities should also report and alert.
+Such an alert should be triaged, risk assessed and treated accordingly.",Recommended,2,,"I-6: The organisation maintains an awareness of possible threats and acts swiftly to implement corrective measures. Evidence of research, horizon scanning, or other awareness activities. Emails or minutes of team discussions showing horizon scanning. ",,
+Computing technology and Information Security,2.5.7.,You must have a process in place for applying security updates to all software that forms part of the TRE infrastructure.,"This includes any software used for remote desktop portals, databases, webapps, creating and destroying compute infrastructure, configuration management, or software used for monitoring the TRE.",Mandatory,2,A8.32: Change management: Changes to information processing facilities and information systems shall be subject to change management procedures.,"K-6: Effective change control practices are utilised in the role out of new or updated software, including the appropriate use of test environments, and the documentation of rollback plans. Copies of change control policies, procedures, or guidance. Copies of rollback plans. Documentation of development, test, live segregation. ",,
+Computing technology and Information Security,2.5.8.,Infrastructure should be automatically patched for vulnerabilities.,"Planning will be required across infrastructure and software systems to ensure security patches remain available from suppliers.
+Many systems may be isolated from the internet making TRE infrastructure more difficult to automatically patch.",Recommended,2,A8.7: Protection against malware. Protection against malware shall be implemented and supported by appropriate user awareness.,"I-3: Anti-virus and anti-malware software is in use on all relevant systems, and is kept up to date. Site Visit. Screenshots of anti-virus/anti malware dashboards. Internal audit or assurance reports related to this software. Relevant incident logs. 
+
+K-4: Patch management practices are established, documented, and effective. Documented policy and procedures. Where this is outsourced, copy of the contract and any documented SLAs. ",,
+Computing technology and Information Security,2.5.9.,You should carry out penetration tests on your TRE.,"By intentionally attempting to breach their TRE, organisations can proactively discover unnoticed vulnerabilities before they are exploited maliciously.
+Tests can evaluate the effectiveness of security controls in preventing data breaches, unauthorised access, or other security incidents.",Recommended,2,"A5.35: Independent review of information security. The organization’s approach to managing information security and its implementation including people, processes and technologies shall be reviewed independently at planned intervals, or when significant changes occur.",,,
+Computing technology and Information Security,2.5.10.,You should update the security controls of your TRE based on the results of security tests.,"Security testing can reveal bugs and discrepancies in the TRE architecture which should be addressed in advance of sensitive data being uploaded, or with urgency in the case of an operational TRE.
+Regular testing will allow organisations to refine their TRE security controls and incident response capabilities.
+It enables them to adapt to any new security concerns that may arise as a result of changes in the underlying software.",Recommended,1,,,,
+Computing technology and Information Security,2.5.11.,"You should publish details of your security testing strategy and, where possible, the results of each test.","Knowledge that regular security testing occurs will help to ensure stakeholders, including data consumers and information asset owners, can trust that the data they work with or are responsible for is secure within a TRE.
+If security flaws are identified in a test, it may not be sensible to publicise these until a fix is in place.",Recommended,0,,,,
+Computing technology and Information Security,2.5.12.,Your TRE must encrypt project and user data at rest.,"This prevents unauthorised access to the data even if the storage media is compromised.
+This may involve encrypted filesystems or tools to encrypt and decrypt data on demand.
+The encryption keys may be managed by the TRE operator or by a trusted external actor, for example a cloud provider.",Mandatory,2,"A8.24: Use of cryptography. Rules for the effective use of cryptography, including cryptographic key management, shall be defined and implemented.
+
+A5.34: Privacy and protection of personal identifiable information (PII). The organization shall identify and meet the requirements regarding the preservation of privacy and protection of PII according to applicable laws and regulations and contractual requirements.","G-1: An effective policy is in place on the use of cryptographic controls for the protection of information, incorporating the use, protection and lifetime of cryptographic keys through the whole lifecycle. This policy has been documented, appropriately authorised, and is subject to periodic reviews. Evidence the organisation has a policy and processes covering the use and management of cryptographic controls.",,
+Computing technology and Information Security,2.5.13.,Your TRE must encrypt data when in transit between the TRE and external networks or computers.,"Data encryption must be used to safeguard against interception or tampering during transmission.
+This includes both data ingress and egress and users accessing the TRE, for example over a remote desktop or shell session.",Mandatory,2,"A8.24: Use of cryptography. Rules for the effective use of cryptography, including cryptographic key management, shall be defined and implemented.
+
+A5.34: Privacy and protection of personal identifiable information (PII). The organization shall identify and meet the requirements regarding the preservation of privacy and protection of PII according to applicable laws and regulations and contractual requirements.","G-1: An effective policy is in place on the use of cryptographic controls for the protection of information, incorporating the use, protection and lifetime of cryptographic keys through the whole lifecycle. This policy has been documented, appropriately authorised, and is subject to periodic reviews. Evidence the organisation has a policy and processes covering the use and management of cryptographic controls.",,
+Computing technology and Information Security,2.5.14.,Your TRE should encrypt data when in transit inside the TRE.,"If possible, data transfers between different components of a TRE should also be encrypted.",Recommended,2,"A8.24: Use of cryptography. Rules for the effective use of cryptography, including cryptographic key management, shall be defined and implemented.
+
+A5.34: Privacy and protection of personal identifiable information (PII). The organization shall identify and meet the requirements regarding the preservation of privacy and protection of PII according to applicable laws and regulations and contractual requirements.","G-1: An effective policy is in place on the use of cryptographic controls for the protection of information, incorporating the use, protection and lifetime of cryptographic keys through the whole lifecycle. This policy has been documented, appropriately authorised, and is subject to periodic reviews. Evidence the organisation has a policy and processes covering the use and management of cryptographic controls.","Partly covered by 
+ C.2.2. Evidenced and appropriate procedures to manage data, metadata, and code in the environment.",
+Computing technology and Information Security,2.5.15.,You should use encryption algorithms and software that are widely accepted as secure.,"Encryption algorithms widely accepted as secure today may become insecure in the future, for instance due to newly-identified flaws, or advances in compute capabilities.
+The latest security patches and updates should be applied to any encryption software being used by the TRE.
+This helps address any known vulnerabilities or weaknesses in the encryption implementation.",Recommended,2,"A8.24: Use of cryptography. Rules for the effective use of cryptography, including cryptographic key management, shall be defined and implemented.
+
+A5.34: Privacy and protection of personal identifiable information (PII). The organization shall identify and meet the requirements regarding the preservation of privacy and protection of PII according to applicable laws and regulations and contractual requirements.","G-1: An effective policy is in place on the use of cryptographic controls for the protection of information, incorporating the use, protection and lifetime of cryptographic keys through the whole lifecycle. This policy has been documented, appropriately authorised, and is subject to periodic reviews. Evidence the organisation has a policy and processes covering the use and management of cryptographic controls.","C.2.2. Evidenced and appropriate procedures to manage data, metadata, and code",
+Computing technology and Information Security,2.5.16.,Your TRE should use secure key management.,"TREs should employ secure key management practices, including storing encryption keys separately from the encrypted data and implementing strong access controls (*e.g.* Single Sign On) for key management systems.",Recommended,2,"A5.34: Privacy and protection of personal identifiable information (PII). The organization shall identify and meet the requirements regarding the preservation of privacy and protection of PII according to applicable laws and regulations and contractual requirements.
+
+A8.24: Use of cryptography. Rules for the effective use of cryptography, including cryptographic key management, shall be defined and implemented.
+","G-1: An effective policy is in place on the use of cryptographic controls for the protection of information, incorporating the use, protection and lifetime of cryptographic keys through the whole lifecycle. This policy has been documented, appropriately authorised, and is subject to periodic reviews. Evidence the organisation has a policy and processes covering the use and management of cryptographic controls.",,
+Computing technology and Information Security,2.5.17.,Your TRE could offer physical protection measures against data leakage or theft via physical means.,"Restricting access to research facilities containing computers logged into TREs can help prevent malicious actors from viewing or stealing sensitive data, for example by photographing a computer screen.
+Physical controls on access to a TRE could include surveillance systems, restricting physical access to authorised personnel only, visitor management systems and employee training.",Optional,2,"A7.1: Physical security perimeters. Security perimeters shall be defined and used to protect areas that contain information and other associated assets.
+
+A7.2: Physical entry. Secure areas shall be protected by appropriate entry controls and access points.
+
+A7.3: Securing offices, rooms and facilities. Physical security for offices, rooms and facilities shall be designed and implemented.
+
+A7.4: Physical security monitoring. Premises shall be continuously monitored for unauthorized physical access.
+
+A7.5: Protecting against physical and environmental threats. Protecting against physical and environmental threats.
+
+A7.6: Working in secure areas. Security measures for working in secure areas shall be designed and implemented.
+
+A7.7: Clear desk and clear screen. Clear desk rules for papers and removable storage media and clear screen rules for information processing facilities shall be defined and appropriately enforced.
+","H-1: Secure areas (areas that contain either sensitive or critical information) are protected by appropriate entry controls to ensure that only authorised personnel are allowed access.
+
+H-2: Regular risk assessments and testing are undertaken to provide assurances that effective physical security controls are in place.
+
+H-3: Granting of physical entry / access rights is controlled, and those rights are reviewed on a regular basis to ensure that only authorised personnel are allowed access.
+
+H-4: Protection has been implemented against external and environmental threats in secure areas such as server rooms.
+
+H-5: Office equipment is sited and protected to reduce the risks from environmental threats and opportunities for unauthorised access.
+
+H-6: A clear desk policy is in operation across the organisation where personal data is processed.
+
+H-7: 'There is a 'clear screen' policy in operation across the organisation where personal data is processed.",,
+Computing technology and Information Security,2.5.18.,Your TRE may need to comply with specific regulatory requirements due to the types of data it is hosting.,"Regulatory frameworks often emphasise the need for security controls to protect sensitive data.
+Compliance with these regulations could require organisations to implement specific security measures to safeguard their TRE from unauthorised access.",Mandatory,2,"A5.31: Legal, statutory, regulatory and contractual requirements. Legal, statutory, regulatory and contractual requirements relevant to information security and the organization’s approach to meet these requirements shall be identified, documented and kept up to date.","A-1: An applicant must be a 'fit and proper person' to be involved in processing before they can be accredited as a processor. Provide evidence to confirm they have sufficient skills, experience, technical infrastructure and policies in place to demonstrate they are a fit and proper person. Demonstrate a record of appropriate compliance with UK laws, in particular laws relevant to processing activities and the use of data.
+
+A-2: Applicants are legally accountable for the work they carry out under relevant legislation. Only processors subject to UK legal jurisdiction are eligible for accreditation. Confirm and evidence that all processing is performed subject to relevant UK legislation.   
+
+O-1: The applicant has identified and recorded any legal, statutory, and regulatory codes they are required to comply with.
+
+O-4: The organisation's privacy information is fully compliant with the requirements of UKGDPR.","Implicitly covered by 
+ C.2.1. Maintain clear and consistent records of legal agreements that outline how data is accessed, processed, and used in the environment.
+ 
+ C.2.2. Evidenced and appropriate procedures to manage data, metadata, and code in the environment.",
+Data management,3.1.1.,You must have processes in place to assess the legal and regulatory implications of handling the data through its full lifecycle.,"This involves considering your obligations to data controllers and subjects, and whether any security controls may be legally or contractually required.
+An assessment of the risks involved will also be needed.
+It may involve classifying the project into a predefined sensitivity category or defining bespoke controls.",Mandatory,2,"A.5.31 – Compliance with legal, statutory, regulatory and contractual requirements
+
+The organisation shall identify and document applicable legal, statutory, regulatory and contractual requirements related to information security and keep this up to date
+",,"C.2.1. Maintain clear and consistent records of legal agreements that outline how data is accessed, processed, and used in the environment.",
+Data management,3.1.2.,You should keep records of data handling decisions.,Decisions that are made as part of the process discussed above should be recorded and made available for inspection by all stakeholders.,Recommended,1,,,,
+Data management,3.1.3.,Information asset owners must classify data sets according to a common process and data classification methodology.,"To classify the data, information asset owners must have a good understanding of the datasets and the process of classification.
+Once classified, data can be stored in a TRE with an appropriate security controls (see later section on security levels and tiering), which can factor in the requirements for confidentiality, integrity and availability of the data.",Mandatory,2,"A5.12: Classification of information. Information shall be classified according to the information security needs of the organization based on confidentiality, integrity, availability and relevant interested party requirements.
+
+A5.13: Labelling of information. An appropriate set of procedures for information labelling shall be developed and implemented in accordance with the information classification scheme adopted by the organization.","E-1: Hardware, software, and data assets have been identified, documented and classified. Asset logs, inventories, registers, etc.
+
+E-2: Hardware, software, and data asset registers/inventories are subject to periodic risk assessment. Copies of risk assessments, risk management policy or procedure. ","Partly covered by:
+ C.2.2. Evidenced and appropriate procedures to manage data, metadata, and code in the environment.",
+Data management,3.1.4.,You must have a data ingress process which enforces information governance rules/processes.,"The data ingress process needs to ensure that information governance is correctly followed.
+In particular, it should require that an ingress request has been approved by all required parties.",Mandatory,2,,,"Implicitly covered by:
+ C.2.2. Evidenced and appropriate procedures to manage data, metadata, and code 
+ in the environment. 
+ 
+ C.2.4: Policies and procedures in place and tested to safeguard the confidentiality of data subjects in outputs.",
+Data management,3.1.5.,You must have a data egress process which enforces information governance rules/processes.,"The data egress process needs to ensure that information governance requirements are adhered to.
+In particular, it should require that an egress request has been approved by all required parties.",Mandatory,2,,,"Implicitly covered by:
+ C.2.2. Evidenced and appropriate procedures to manage data, metadata, and code 
+ in the environment. 
+ 
+ C.2.4: Policies and procedures in place and tested to safeguard the confidentiality of data subjects in outputs.",
+Data management,3.1.6.,Egress must be limited to the information asset owners or their delegates.,"Egress of data from a TRE must be a specific permission associated with individual users
+This permission must be given by information asset owners.
+Egress may still require further approval (see 3.1.5).",Mandatory,2,,,"Implicitly covered by:
+ C.2.2. Evidenced and appropriate procedures to manage data, metadata, and code 
+ in the environment. 
+ 
+ C.2.4: Policies and procedures in place and tested to safeguard the confidentiality of data subjects in outputs.",
+Data management,3.1.7.,Your data egress process could sometimes require project-independent approval.,"There may be cases where there are multiple stakeholders for a piece of analysis including information asset owners, data analysts, data subjects, the TRE operator.
+A data egress process may then require approval from people not on the project team, for example an external referee or TRE operator representative",Optional,2,,,"Partly covered by:
+ C.2.2. Evidenced and appropriate procedures to manage data, metadata, and code 
+ in the environment. 
+ 
+ C.2.4: Policies and procedures in place and tested to safeguard the confidentiality of data subjects in outputs.",
+Data management,3.1.8.,You must keep a record of what data your TRE holds.,"Good records are important for ensuring compliance with legislation, understanding risk and aiding good data hygiene.
+The record should include a description of the data, its source, contact details for the data owner, which projects use the data, the date it was received, when it is expected to no longer be needed.",Mandatory,2,,,"C.2.7: Clear records of all data in the environment. This includes open data, geography lookups and data extracts.
+ 
+ C.5.4. Share records of the data available in the processors’ environment under the 
+ DEA. (with the UK Statistics Authority as the accrediting body)",
+Data management,3.1.9.,You must have a policy on data deletion.,"There should be a clear, published policy on when data will be retained or deleted.
+This may allow time for data owners to consider outputs they may want to extract from the TRE.
+Any sensitive data, including all backups, should be deleted when they are no longer needed.
+Having clear policies will help to avoid problems with data being kept longer than necessary or accidental deletion of outputs.",Mandatory,2,"A8.10: Information Deletion. Information stored in information systems, devices or in any other storage media shall be deleted when no longer required.",,"C.2.6: Policies and evidenced procedures for the retention of all different data instances.
+ 
+ C.2.2: Evidenced and appropriate procedures to manage data, metadata, and code in the environment.",
+Data management,3.1.10.,You should have a method of providing proof of deletion/removal of files.,"Information asset owners may require certification of the deletion of files.
+You should have a method of providing proof of deletion if challenged.",Recommended,2,,,"Implicitly covered by:
+ C.2.6: Policies and evidenced procedures for the retention of all different data instances",
+Data management,3.1.11.,You should log how input data is modified.,"If the input data is mutable a TRE should keep records of its modification.
+For example, when the data was modified and by who.",Recommended,1,,,"Implicitly covered by:
+ C.2.7. Clear records of all data in the environment. This includes open data, geography lookups and data extracts.",
+Data management,3.1.12.,"You must, to a reasonable extent, prevent unauthorised data ingress or egress.","Movement of data which has not been subject to information governance processes risks breaking rules and is more likely to result in a data breach.
+However, it is difficult to control for every possibility.
+For example, a user may take pictures of their computer screen to remove data, or use a device presenting as a USB HID keyboard to input large amounts of text.
+An example of a reasonable measure would be for a remote desktop based TRE to prevent data being copied from a local machine’s clipboard to a workspace.",Mandatory,2,"A5.15: Access control. Rules to control physical and logical access to information and other associated assets shall be established and implemented based on business and information security requirements.
+
+A5.14: Information transfer. Information transfer rules, procedures, or agreements shall be in place for all types of transfer facilities within the organization and between the organization and other parties.
+
+A5.33: Protection of records. Records shall be protected from loss, destruction, falsification, unauthorized access and unauthorized release.
+
+A8.1: User endpoint devices. Information stored on, processed by or accessible via user end point devices shall be protected.","E-6: Media containing information is protected against unauthorised access, misuse or corruption during transportation.
+
+E-7: There are endpoint (port) controls in place to prevent unauthorised use of removeable media or the upload or download of unauthorised information.
+
+E-8: Removeable media is disposed of securely when no longer required, using formal procedures.
+
+F-1: Access to information is controlled, and is granted only to authorised users. Access Control Policy and processes.
+
+F-2: A formal user access provisioning process has been implemented to assign access rights to staff. New start process or procedure. 
+
+F-3: The allocation and use of privileged access rights is restricted and controlled. Privileged Access Rights/Administrator Access policy, procedures, code of conduct, rules. Evidence of the process followed to allocate privileged access. 
+
+F-4: User access rights are reviewed at regular intervals, and where no longer required are removed in a timely fashion. Responsibility for these reviews is assigned to appropriate individuals. Evidence of access reviews or audits. Evidence of responsibility for reviews being appropriately assigned. Evidence of access being removed from staff who no longer require it (i.e. who are leaving the organisation). 
+
+F-5: Access rights are adjusted upon a change of assignment/role. Internal mover process.
+
+F-6: Users are responsible for safeguarding their authentication information. Guidance given to staff around keeping authentication information secret. 
+
+F-7: Where passwords are used for user authentication there are effective and up to date rules in place regarding length, complexity, and periodic password changes. Existing requirements are subject to periodic effectiveness reviews. Password rules or requirements. Evidence of reviews against new best practice recommendations. 
+
+F-8: Processes are in place to ensure that default passwords are changed, and to control the use of shared passwords. Evidence of default passwords being changed. Rules regarding the sharing of passwords. 
+
+J-1: Formal transfer policies, procedures and controls are in place across all communication facilities, including electronic messaging. 
+
+","C.2.2: Evidenced and appropriate procedures to manage data, metadata, and code in the environment.
+ 
+ C.2.4: Policies and procedures in place and tested to safeguard the confidentiality of data subjects in outputs.",
+Data management,3.1.13.,Data held within the TRE should be the minimum required for analysis or research.,"Data stored and processed within the TRE should be limited to the amount required for that purpose.
+This increases the level of protection for data subjects, makes it easier to comply with data protection legislation and could reduce the overhead of storage and processing.",Recommended,2,,,C.2.10: Auditable systems and practices to ensure that access to proportionate data provided (data minimisation).,
+Data management,3.2.1.,You must not create user accounts for use by more than one person.,"It is important that each user account should be used by one, and only one, person in order to facilitate the assignment of roles or permissions and to log the actions of individuals.",Mandatory,2,"A5.15: Access control. Rules to control physical and logical access to information and other associated assets shall be established and implemented based on business and information security requirements.
+
+A5.14: Information transfer. Information transfer rules, procedures, or agreements shall be in place for all types of transfer facilities within the organization and between the organization and other parties.
+
+A5.33: Protection of records. Records shall be protected from loss, destruction, falsification, unauthorized access and unauthorized release.","F-1: Access to information is controlled, and is granted only to authorised users. Access Control Policy and processes.
+
+F-2: A formal user access provisioning process has been implemented to assign access rights to staff. New start process or procedure. 
+
+F-3: The allocation and use of privileged access rights is restricted and controlled. Privileged Access Rights/Administrator Access policy, procedures, code of conduct, rules. Evidence of the process followed to allocate privileged access. 
+
+F-4: User access rights are reviewed at regular intervals, and where no longer required are removed in a timely fashion. Responsibility for these reviews is assigned to appropriate individuals. Evidence of access reviews or audits. Evidence of responsibility for reviews being appropriately assigned. Evidence of access being removed from staff who no longer require it (i.e. who are leaving the organisation). 
+
+F-5: Access rights are adjusted upon a change of assignment/role. Internal mover process.
+
+F-6: Users are responsible for safeguarding their authentication information. Guidance given to staff around keeping authentication information secret. 
+
+F-7: Where passwords are used for user authentication there are effective and up to date rules in place regarding length, complexity, and periodic password changes. Existing requirements are subject to periodic effectiveness reviews. Password rules or requirements. Evidence of reviews against new best practice recommendations. ","Implicitly covered by :
+ C.1.4: Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey.",
+Data management,3.2.2.,You must be reasonably convinced of the identity of each person being granted an account.,"It is important to ensure an account has been given to the correct person.
+For example, multiple credentials may be used before account creation to verify identity or, when appropriate, photo ID checks may be required.",Mandatory,2,"A5.15: Access control. Rules to control physical and logical access to information and other associated assets shall be established and implemented based on business and information security requirements.
+
+A5.14: Information transfer. Information transfer rules, procedures, or agreements shall be in place for all types of transfer facilities within the organization and between the organization and other parties.
+
+A5.33: Protection of records. Records shall be protected from loss, destruction, falsification, unauthorized access and unauthorized release.
+
+","F-1: Access to information is controlled, and is granted only to authorised users. Access Control Policy and processes.
+
+F-2: A formal user access provisioning process has been implemented to assign access rights to staff. New start process or procedure. 
+
+F-3: The allocation and use of privileged access rights is restricted and controlled. Privileged Access Rights/Administrator Access policy, procedures, code of conduct, rules. Evidence of the process followed to allocate privileged access. 
+
+F-4: User access rights are reviewed at regular intervals, and where no longer required are removed in a timely fashion. Responsibility for these reviews is assigned to appropriate individuals. Evidence of access reviews or audits. Evidence of responsibility for reviews being appropriately assigned. Evidence of access being removed from staff who no longer require it (i.e. who are leaving the organisation). 
+
+F-5: Access rights are adjusted upon a change of assignment/role. Internal mover process.
+
+F-6: Users are responsible for safeguarding their authentication information. Guidance given to staff around keeping authentication information secret. 
+
+F-7: Where passwords are used for user authentication there are effective and up to date rules in place regarding length, complexity, and periodic password changes. Existing requirements are subject to periodic effectiveness reviews. Password rules or requirements. Evidence of reviews against new best practice recommendations. ",C.1.4: Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey.,
+Data management,3.2.3.,You must restrict a user’s access to only data required in their work.,"There is no need to grant an individual access to data they do not require.
+Access may be assigned in a manner appropriate to a TREs design, for example through roles granted to user accounts or through isolated project workspaces.",Mandatory,2,"A5.15: Access control. Rules to control physical and logical access to information and other associated assets shall be established and implemented based on business and information security requirements.
+
+A5.14: Information transfer. Information transfer rules, procedures, or agreements shall be in place for all types of transfer facilities within the organization and between the organization and other parties.
+
+A5.33: Protection of records. Records shall be protected from loss, destruction, falsification, unauthorized access and unauthorized release.
+
+A5.8: Information security in project management. Information security shall be integrated into project management.","F-1: Access to information is controlled, and is granted only to authorised users. Access Control Policy and processes.
+
+F-2: A formal user access provisioning process has been implemented to assign access rights to staff. New start process or procedure. 
+
+F-3: The allocation and use of privileged access rights is restricted and controlled. Privileged Access Rights/Administrator Access policy, procedures, code of conduct, rules. Evidence of the process followed to allocate privileged access. 
+
+F-4: User access rights are reviewed at regular intervals, and where no longer required are removed in a timely fashion. Responsibility for these reviews is assigned to appropriate individuals. Evidence of access reviews or audits. Evidence of responsibility for reviews being appropriately assigned. Evidence of access being removed from staff who no longer require it (i.e. who are leaving the organisation). 
+
+F-5: Access rights are adjusted upon a change of assignment/role. Internal mover process.
+
+F-6: Users are responsible for safeguarding their authentication information. Guidance given to staff around keeping authentication information secret. 
+
+F-7: Where passwords are used for user authentication there are effective and up to date rules in place regarding length, complexity, and periodic password changes. Existing requirements are subject to periodic effectiveness reviews. Password rules or requirements. Evidence of reviews against new best practice recommendations. ","C.1.4: Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey.
+ 
+ C.2.10 Auditable systems and practices to ensure that access to proportionate data 
+ provided (data minimisation)",
+Data management,3.2.4.,You must ensure that multi-factor authentication is enabled for all users.,"Multi-factor authentication ensures that to successfully connect a user must have more than one piece of evidence in different categories.
+Categories include something the user knows (*e.g.* a password), something the user possesses (*e.g.* a TOTP key) or something the user is (*e.g.* biometric data).
+A TRE does not need to implement multi-factor authentication checks itself if it is provided by a third-party identity provider.",Mandatory,2,"A5.15: Access control. Rules to control physical and logical access to information and other associated assets shall be established and implemented based on business and information security requirements.
+
+A5.14: Information transfer. Information transfer rules, procedures, or agreements shall be in place for all types of transfer facilities within the organization and between the organization and other parties.
+
+A5.33: Protection of records. Records shall be protected from loss, destruction, falsification, unauthorized access and unauthorized release.","F-1: Access to information is controlled, and is granted only to authorised users. Access Control Policy and processes.
+
+F-2: A formal user access provisioning process has been implemented to assign access rights to staff. New start process or procedure. 
+
+F-3: The allocation and use of privileged access rights is restricted and controlled. Privileged Access Rights/Administrator Access policy, procedures, code of conduct, rules. Evidence of the process followed to allocate privileged access. 
+
+F-4: User access rights are reviewed at regular intervals, and where no longer required are removed in a timely fashion. Responsibility for these reviews is assigned to appropriate individuals. Evidence of access reviews or audits. Evidence of responsibility for reviews being appropriately assigned. Evidence of access being removed from staff who no longer require it (i.e. who are leaving the organisation). 
+
+F-5: Access rights are adjusted upon a change of assignment/role. Internal mover process.
+
+F-6: Users are responsible for safeguarding their authentication information. Guidance given to staff around keeping authentication information secret. 
+
+F-7: Where passwords are used for user authentication there are effective and up to date rules in place regarding length, complexity, and periodic password changes. Existing requirements are subject to periodic effectiveness reviews. Password rules or requirements. Evidence of reviews against new best practice recommendations. ",,
+Data management,3.2.5.,You could use federated authentication or single sign-on (SSO) for user login.,"Institutions that use a SSO for other applications may wish to extend this login capability to a TRE.
+This will simplify the login process for data consumers using a TRE and prevent them having to remember or store multiple login credentials.",Optional,2,,"F-1: Access to information is controlled, and is granted only to authorised users. Access Control Policy and processes.
+
+F-2: A formal user access provisioning process has been implemented to assign access rights to staff. New start process or procedure. 
+
+F-3: The allocation and use of privileged access rights is restricted and controlled. Privileged Access Rights/Administrator Access policy, procedures, code of conduct, rules. Evidence of the process followed to allocate privileged access. 
+
+F-4: User access rights are reviewed at regular intervals, and where no longer required are removed in a timely fashion. Responsibility for these reviews is assigned to appropriate individuals. Evidence of access reviews or audits. Evidence of responsibility for reviews being appropriately assigned. Evidence of access being removed from staff who no longer require it (i.e. who are leaving the organisation). 
+
+F-5: Access rights are adjusted upon a change of assignment/role. Internal mover process.
+
+F-6: Users are responsible for safeguarding their authentication information. Guidance given to staff around keeping authentication information secret. 
+
+F-7: Where passwords are used for user authentication there are effective and up to date rules in place regarding length, complexity, and periodic password changes. Existing requirements are subject to periodic effectiveness reviews. Password rules or requirements. Evidence of reviews against new best practice recommendations. ",,
+Data management,3.2.6.,You could restrict access to particular networks or physical locations.,"Restricting access to a set of known, static, personal or institutional IP addresses can help avoid speculative attacks.
+When appropriate, access could also be restricted to physical locations with security controls and access requirements.",Optional,1,,,,
+Data management,3.3.1.,You should have a system to help classify outputs.,"Removing data from a TRE can be a difficult process as there is potential for sensitive data to be revealed.
+Having guidance, processes and methods will help ensure that outputs are correctly classified and, furthermore, that outputs due to be openly published are identified.
+Encouraging openly published outputs will enhance a TRE’s impact and transparency.",Recommended,1,,,,
+Data management,3.3.2.,You should establish the intended outputs of each project from the outset.,"Identifying the purpose of a piece of work is important for compliance with data protection legislation.
+Results will be produced which address the project’s purpose, some of which may be outputs that are removed from the TRE.
+Understanding what these outputs are likely to be and their sensitivity as early as possible will help prepare for their processing and publication.",Recommended,2,,,"C.1.1. Maintain sufficiently detailed records, including any accreditation conditions, 
+ of all projects in the processor’s environment.",
+Data management,3.3.3.,You must have a documented process for disclosure control of outputs from the TRE.,"This process should define expected risks and how to mitigate them.
+All TRE outputs must be subject to this process.
+You might choose to follow existing guidelines, for example around statistical disclosure.",Mandatory,2,A5.37: Documented operating procedures. Operating procedures for information processing facilities shall be documented and made available to personnel who need them.,,"C.2.2. Evidenced and appropriate procedures to manage data, metadata, and code 
+ in the environment. 
+ 
+ C.2.4: Policies and procedures in place and tested to safeguard the confidentiality of data subjects in outputs.",
+Data management,3.3.4.,You must have a process for assigning responsibility for output checking.,"Output checkers should be given responsibility for checking outputs.
+They must follow your disclosure control process and will be responsible for any automated parts of this process.
+Output checking can help mitigate against unintentional data disclosure or leaks.",Mandatory,2,A5.37: Documented operating procedures. Operating procedures for information processing facilities shall be documented and made available to personnel who need them.,,"C.2.2. Evidenced and appropriate procedures to manage data, metadata, and code 
+ in the environment. 
+ 
+ C.2.4: Policies and procedures in place and tested to safeguard the confidentiality of data subjects in outputs.",
+Data management,3.3.5.,You must have a documented policy for handling disclosure risks associated with any outputs that cannot be manually checked.,"Some categories of output, for instance binary files or very large numeric files, can be difficult to manually check.
+If egress of such files is permitted then the risks of inadvertent disclosure must be mitigated and documented.
+Refusing to allow egress of such files is also a valid policy decision.",Mandatory,2,A5.37: Documented operating procedures. Operating procedures for information processing facilities shall be documented and made available to personnel who need them.,,"Implicitly covered by
+ C.2.2. Evidenced and appropriate procedures to manage data, metadata, and code 
+ in the environment. 
+ 
+ C.2.4: Policies and procedures in place and tested to safeguard the confidentiality of data subjects in outputs.",
+Data management,3.3.6,You should have a statistical basis to guide the decisions of an output checker on the safety of outputs.,There should be a solid basis to allow decisions to be made about data based on risk factors such as re-identification of an individual or risk to commercial operations posed by outputs from the TRE.,Recommended,2,,,"Implicitly covered by:
+ 
+ C.2.4: Policies and procedures in place and tested to safeguard the confidentiality of data subjects in outputs.",
+Data management,3.3.7,You could create a semi-automated system for checks on common research outputs.,"Automation helps make decisions on outputs more consistent and reduces the overhead for output checkers.
+It’s unlikely however that a fully automated output checking system (without humans in the loop) would be appropriate, given the risks associated with accidental data disclosure.",Optional,1,,,"Implicitly covered by
+ 
+ C.2.4: Policies and procedures in place and tested to safeguard the confidentiality of data subjects in outputs.",
+Data management,3.3.8.,TRE outputs should be limited to the minimum required for sharing results of any analyses.,"This decreases the risk of inadvertent disclosure, and makes it easier to comply with data protection legislation (e.g. GDPR).",Recommended,2,,,"Implicitly covered by
+ C.2.2: Evidenced and appropriate procedures to manage data, metadata, and code in the environment.
+ 
+ C.2.4: Policies and procedures in place and tested to safeguard the confidentiality of data subjects in outputs.",
+Data management,3.4.1.,You should provide a metadata catalogue of available datasets for users.,"This is particularly relevant for TREs with population-level data collection of general interest.
+This may not be appropriate for TREs where each project has its own data sharing agreement with one or more data provider or very sensitive datasets.",Recommended,2,,,"C.2.2: Evidenced and appropriate procedures to manage data, metadata, and code in the environment.
+ 
+ C.2.7. Clear records of all data in the environment. This includes open data, 
+ geography lookups and data extracts. 
+ 
+ C.4.5. Each dataset is accompanied by a minimum set of documentation available to researchers and support staff. Processes to review data documentation are in 
+ place. 
+ 
+ C.5.4. Share records of the data available in the processors’ environment under the 
+ DEA. (share with the UK Statistics Authority as the accrediting body)",
+Data management,3.5.1.,You must be able to specify what categories of data your TRE is able to support.,"Your TRE must provide an explanation of the kinds of data it has been designed to hold, with reference to its security capabilities, that can be understood by all stakeholders.
+Relevant stakeholders may include information asset owners and project teams and they may have different levels of technical expertise.",Mandatory,1,,,,
+Data management,3.5.2.,Your TRE could support projects with differing security requirements through configurable security controls.,"This allows projects with different security requirements to each be met with a suitable level of controls.
+It helps ensure that users can work effectively, with minimal barriers.",Optional,1,,,,
+Data management,3.5.3.,Your TRE could offer a pre-defined set of security control tiers.,"Security control tiers can be designed to cover the types of project or data you expect to handle.
+Projects may be placed into the most suitable tier rather than having a bespoke design.
+This reduces the number of unique configurations that need to be supported.",Optional,1,,,,
+Data management,3.6.1.,You should have a consistent and easily accessible meta-data data model or similar to describe what a data asset contains.,"Where possible, existing data models should be employed (and extended if necessary).
+More detailed information on the data schema for data assets should also be provided to assist researchers in understanding what data may be available without the need to see the underlying data.",Recommended,2,,,"Partly covered by
+ C.4.5. Each dataset is accompanied by a minimum set of documentation available 
+ to researchers and support staff. Processes to review data documentation are in 
+ place.",
+Data management,3.6.2.,"You could provide summary, abstracted or synthetic data to researchers without exposing the underlying data set.",To reduce the need for access to row level data researchers could be provided with non-sensitive versions of the data either as summary data or using synthetic versions of the data for activities such as code development and cohort planning.,Optional,0,,,"N/A, possibly partly covered by 
+ C.4.5. Each dataset is accompanied by a minimum set of documentation available to researchers and support staff. Processes to review data documentation are in place.",
+Data management,3.7.1.,You could provide an interface application for data consumers and data subjects to query elements of the data.,"In order to make data findable, an application which queries the meta-data or elements of the research data could be made more easily accessible than the data itself.",Optional,0,,,,
+Data management,3.8.1.,Archived data within the TRE should be read only.,"Archived data by its very nature should not change and therefore be maintained as a read only store.
+If an update is required, it may be pulled from archive into a separate operational store.",Recommended,2,,,,
+Data management,3.8.2.,"Long-term archives must be held in simple, standard formats to ensure accessibility.","Some data archives may be required by policy or legislation to be kept for very long periods within the scope of the TRE.
+Such data should be held in the simplest possible file format, conforming to international standards if available, to ensure they are platform and application agnostic.",Recommended,2,,,"Partly covered by 
+ C.2.6: Policies and evidenced procedures for the retention of all different data instances.",
+Supporting Capabilities,4.1.1.,You should have a business continuity plan that includes consideration of loss of service for deployed TREs.,"This may be due to downtime from service providers, a breach, or loss of power.
+Your plan should detail your process for managing loss of service for deployed TREs, and evaluation of impact of such loss.",Recommended,2,"A5.30: ICT readiness for business continuity. ICT readiness shall be planned, implemented, maintained and tested based on business continuity objectives and ICT continuity requirements.","N-1: There are business continuity and disaster recovery plans in place. Copies of BC and DR plans.
+
+N-2: The plans are tested on a periodic basis to ensure they remain up to date and fit for purpose, with tests being analysed afterwards for lessons learned. Evidence of tests being planned and carried out. Minutes of relevant discussions. Analysis and report documents. 
+
+N-3: Business continuity and disaster recovery plans are communicated / made available to staff. Copies of staff communications and guidance. 
+
+N-4: Where cloud infrastructure is in use, the organisation has documented consideration of fail over processes for data centre failure, and has considered the geography of where the data may reside in the event of an outage. Evidence of consideration, evidence of planned fail over locations. ",,
+Supporting Capabilities,4.1.2.,"You should regularly test the aspects of your business continuity plan concerning TREs, and have a process in place to iterate the plan if required.",,Recommended,2,"A5.30: ICT readiness for business continuity. ICT readiness shall be planned, implemented, maintained and tested based on business continuity objectives and ICT continuity requirements.","N-1: There are business continuity and disaster recovery plans in place. Copies of BC and DR plans.
+
+N-2: The plans are tested on a periodic basis to ensure they remain up to date and fit for purpose, with tests being analysed afterwards for lessons learned. Evidence of tests being planned and carried out. Minutes of relevant discussions. Analysis and report documents. 
+
+N-3: Business continuity and disaster recovery plans are communicated / made available to staff. Copies of staff communications and guidance. 
+
+N-4: Where cloud infrastructure is in use, the organisation has documented consideration of fail over processes for data centre failure, and has considered the geography of where the data may reside in the event of an outage. Evidence of consideration, evidence of planned fail over locations. ",,
+Supporting Capabilities,4.2.1.,You should ensure that all projects using your TRE have a named project manager.,"The project manager has responsibility to ensure the smooth running of the project.
+Their responsibilities may include budget management, tracking TRE status, managing communications with the TRE operations team, and other project support tasks.",Recommended,2,,,,
+Supporting Capabilities,4.2.2.,You should not give project managers direct access to the TRE.,"Doing so ensures a separation between those able to access sensitive data, and those overseeing access to sensitive data.",Recommended,2,"A5.15: Access control. Rules to control physical and logical access to information and other associated assets shall be established and implemented based on business and information security requirements.
+
+A5.14: Information transfer. Information transfer rules, procedures, or agreements shall be in place for all types of transfer facilities within the organization and between the organization and other parties.
+
+A5.33: Protection of records. Records shall be protected from loss, destruction, falsification, unauthorized access and unauthorized release.","F-1: Access to information is controlled, and is granted only to authorised users. Access Control Policy and processes.
+
+F-2: A formal user access provisioning process has been implemented to assign access rights to staff. New start process or procedure. 
+
+F-3: The allocation and use of privileged access rights is restricted and controlled. Privileged Access Rights/Administrator Access policy, procedures, code of conduct, rules. Evidence of the process followed to allocate privileged access. 
+
+F-4: User access rights are reviewed at regular intervals, and where no longer required are removed in a timely fashion. Responsibility for these reviews is assigned to appropriate individuals. Evidence of access reviews or audits. Evidence of responsibility for reviews being appropriately assigned. Evidence of access being removed from staff who no longer require it (i.e. who are leaving the organisation). 
+
+F-5: Access rights are adjusted upon a change of assignment/role. Internal mover process.
+
+F-6: Users are responsible for safeguarding their authentication information. Guidance given to staff around keeping authentication information secret. 
+
+F-7: Where passwords are used for user authentication there are effective and up to date rules in place regarding length, complexity, and periodic password changes. Existing requirements are subject to periodic effectiveness reviews. Password rules or requirements. Evidence of reviews against new best practice recommendations. ","Implicitly covered by 
+ C.1.4: Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey.",
+Supporting Capabilities,4.3.1.,You must document all features of your TRE implementation.,"This includes ensuring all documentation is discoverable, clear, and able to be easily updated based on stakeholder feedback",Mandatory,1,,,,
+Supporting Capabilities,4.3.2.,You should have an education programme in place to upskill stakeholders in the use and management of your TRE.,"This may include learning modules, workshops and other resources on how to effectively access and use a TRE, FAQ pages, and accessible pathways for additional support",Recommended,1,,,"C.4.2. Provide sufficient information on how researchers can interact with the 
+ service before researchers access the environment.",
+Supporting Capabilities,4.3.3.,You should periodically carry out a training needs analysis (TNA) for all stakeholders included within your TRE provision.,"At least once every 12 months you should assess the training needs of your stakeholders, and ensure they have easy access to all required training materials",Recommended,1,,,"C.1.4: Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey.
+ 
+ C.3.1: Demonstrate that staff have the relevant skills and/or experience, security clearance, training, and support to provision all functions of the processor in line with relevant policies. Evidence of ongoing assessment and development of staff.
+ 
+ C.4.2. Provide sufficient information on how researchers can interact with the service before researchers access the environment. 
+ 
+ C.5.3: The training course offered to researchers is recognised by the accrediting body and processors provide evidence that it is being regularly reviewed.",
+Supporting Capabilities,4.4.1.,You must ensure that all projects using your TRE are aware of any associated costs and are able and willing to pay them.,"Costs may include provision of the underlying TRE infrastructure, additional resources required in a specific TRE (for instance memory or additional compute), hardware including managed devices, and staff support costs",Mandatory,2,,,"C.1.4: Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey.
+ 
+ C.4.1. Publicly provide information the functions and services provided, including 
+ accessibility and performance information regarding these services.",
+Supporting Capabilities,4.4.2.,You should be able to track the costs associated with each TRE project.,"This includes knowing which costs are associated with which project, and having an appropriate charging mechanism in place in line with your organisational policy.",Recommended,1,,,,
+Supporting Capabilities,4.4.3.,You should have a process in place to ensure your TRE provision remains financially sustainable.,"This could include having a cost recovery process in place, or setting up a long-term funding mechanism to support projects with TREs.
+At any given time, you should have funds free to cover all potential foreseen TRE provision for at least 12 months.",Recommended,1,,,,
+Supporting Capabilities,4.4.4.,You should minimise the cost of your TRE infrastructure wherever possible,"You should have regular reviews of your TRE provision and actively work to bring down costs, streamline provision, and optimise support.",Recommended,0,,,,
+Supporting Capabilities,4.5.1.,You must identify any goods or services that will be needed to operate the TRE and ensure that a plan is in place to purchase them as needed.,"These may include computing hardware, cloud credits or devices through which users access the TRE.",Mandatory,1,,,,
+Supporting Capabilities,4.6.1.,Your TRE must have a team of Operators in place to support projects working with TREs.,"This may be part of your organisation’s IT support team, or separate.
+Responsibility should be clear and stakeholders should easily be able to access support appropriate to their needs.",Mandatory,2,,,"C.1.4: Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey.
+ 
+ C.3.1. Demonstrate that staff have the relevant skills and/or experience, security 
+ clearance, training, and support to provision all functions of the processor in line with 
+ relevant policies. Evidence of ongoing assessment and development of staff.
+ 
+ Role of staff in supporting the operations of the TRE also covered by multiple other controls",
+Supporting Capabilities,4.7.1.,You should have a clear process in place for stakeholders to feedback on your TRE infrastructure.,"This may include a GitHub repository where people can open issues and discussions, communication streams like Slack or email, or forms stakeholders can fill in.",Recommended,2,,,"C.1.3. Clearly communicate the available statistical/analytical software in the 
+ environment and manage any changes to software and its impact to research. 
+ 
+ C.1.4: Evidenced processes for managing accredited researchers in the processor’s environment throughout the researcher journey.
+ 
+ C.4.2. Provide sufficient information on how researchers can interact with the 
+ service before researchers access the environment. 
+ 
+ C.4.3. Effective, accessible, inclusive, and auditable systems to respond to requests 
+ by researchers.",
+Supporting Capabilities,4.8.1.,All public engagement activities must include a range of perspectives and be inclusive (*optional for TREs without personal data).,"Any public engagement activity carried out by TREs should involve diverse participants and that activities are accessible.
+Recruitment plans should consider how to proactively reach a representative sample of people or target particular groups of people where relevant
+This could include following guidelines such as PEDRI.",Mandatory*,1,,,,
+Supporting Capabilities,4.8.2.,"Details of TRE operations, data available and projects which have accessed the data should be publicly available (*optional for TREs without personal data).","TREs should be as transparent as possible by providing information online.
+Where information is made available online this should be written in clear language understandable to general public.
+A record of projects which have accessed data via the TRE should be kept and made available.
+Where possible it should include name, summaries, public benefit (if relevant) and organisations involved",Mandatory*,1,,,"C.1.1: Maintain sufficiently detailed records, including any accreditation conditions, of all projects in the processor’s environment. 
+ 
+ C.4.1: Publicly provide information the functions and services provided, including accessibility and performance information regarding these services.
+ 
+ C.4.2: Provide sufficient information on how researchers can interact with the service before researchers access the environment.
+ 
+ C.5.4: Share records of the data available in the processors’ environment under the DEA.",
+Supporting Capabilities,4.8.3.,Members of the public should be included in TRE operations and/or oversight (*optional for TREs without personal data).,"Members of the public can be involved via presence on steering groups or project approvals panels.
+Alternatively TRE’s can establish separate public panels available for both researchers and TRE staff to consult.",Mandatory*,1,,,,
+Supporting Capabilities,4.8.4.,"You should publicly share details of incidents, near misses, and mitigations in a timely fashion, in line with good practices for responsible disclosure.","This may be via the TRE website or annual reports.
+Sharing this information is particularly important when a TRE holds public sector data.",Recommended,1,A.5.24 – Information security incident management responsibilities and procedures. nformation security incidents shall be responded to in accordance with a documented procedure,,"C.4.1: Publicly provide information the functions and services provided, including accessibility and performance information regarding these services.
+ 
+ C.5.1: Share relevant information on its performance
+ 
+ C.5.2: Share relevant information on confirmed breaches and near misses by individuals and organisations.
+ 
+ (Sharing in C.5.1 and C.5.2 refers to sharing with the UK Statistics Authority as the accredity body)",
+Supporting Capabilities,4.9.1.,You should identify areas where legal advice may be required and ensure that you have ready access to it.,"It is likely that legal advice will be necessary for several issues around the handling of sensitive data, and managing project contracts.
+TRE operators should have ready access to legal advice, including a way to solicit advice and carry out associated actions.",Recommended,2,,,"Partly covered by 
+ C.2.1. Maintain clear and consistent records of legal agreements that outline how 
+ data is accessed, processed, and used in the environment.",
+Supporting Capabilities,4.9.2.,You should identify areas where advice on data protection issues may be required and ensure that you have ready access to it.,It is likely that data protection advice will be necessary for several issues around the handling of sensitive data.,Recommended,2,,,,
+Supporting Capabilities,4.9.3.,You should identify who will be responsible for managing contracts related to the TRE.,"These contracts may include data sharing agreements, secondments of personnel or limitations on how results obtained with the data can be distributed.",Recommended,2,,,,
+,,,,,,,,,
+Version,stable-6ef8e7f,,,,,,,,
